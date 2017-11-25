@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Amir Chaudhry - 'MirageOS'</title>
+  <link href="http://amirchaudhry.com/tags/mirage-atom.xml" rel="self"/>
+  <link href="http://amirchaudhry.com"/>
+  <subtitle>thoughts, comments &amp; general ramblings</subtitle>
+  <updated>2017-11-25T10:07:53-05:00</updated>
+  <id>http://amirchaudhry.com/tags/#mirage</id>
+  <author>
+    <name>Amir Chaudhry</name>
+  </author>
+  
+</feed>

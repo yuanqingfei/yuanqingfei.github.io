@@ -1,0 +1,15 @@
+
+http://amirchaudhry.com/atom.xml
+http://amirchaudhry.com/about/
+http://amirchaudhry.com/feedback/
+http://amirchaudhry.com/test/
+http://amirchaudhry.com/tags/
+http://amirchaudhry.com/bio/
+http://amirchaudhry.com/
+http://amirchaudhry.com/tags/mirage-atom.xml
+http://amirchaudhry.com/tags/miso-atom.xml
+http://amirchaudhry.com/tags/nymote-atom.xml
+http://amirchaudhry.com/tags/ocaml-atom.xml
+http://amirchaudhry.com/tags/ocamllabs-atom.xml
+http://amirchaudhry.com/rss.xml
+http://amirchaudhry.com/sitemap.txt

@@ -3,7 +3,8 @@ published: true
 ---
 ## 加拿大技术移民的基本流程
 
-![canada1.jpg]({{site.baseurl}}/_posts/canada1.jpg)
+![canada1.jpg]({{site.baseurl}}/images/canada1.jpg)
+
 
 登陆加拿大已经有大半年的时间了，之前的各种预期和各种担心慢慢地都应验或者云散了，趁着我的博客现在开张，抽时间把这个流程捋一下，希望对大家有帮助。
 

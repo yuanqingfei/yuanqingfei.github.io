@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![school.jpg]({{site.baseurl}}/images/school.jpg)
 

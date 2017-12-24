@@ -27,9 +27,12 @@ markdown: kramdown
 #  theme: minima
 #  plugins:
 #    - jekyll-feed
+
 remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
 
 paginate: 5
 

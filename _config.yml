@@ -55,7 +55,7 @@ defaults:
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : yuanqingfei # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "yuanqingfei" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : meta.discourse.org # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:

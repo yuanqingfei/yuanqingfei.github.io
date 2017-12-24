@@ -27,10 +27,26 @@ markdown: kramdown
 #  theme: minima
 #  plugins:
 #    - jekyll-feed
+
 remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
   - jekyll-remote-theme
+#  - jekyll-feed
 
+paginate: 5
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

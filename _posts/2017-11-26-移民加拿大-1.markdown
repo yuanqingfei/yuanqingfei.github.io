@@ -1,4 +1,5 @@
 ---
+layout: single
 published: true
 ---
 ## 加拿大技术移民的基本流程

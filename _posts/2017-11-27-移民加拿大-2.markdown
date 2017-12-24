@@ -1,4 +1,5 @@
 ---
+layout: single
 published: true
 ---
 ![money.jpg]({{site.baseurl}}/images/money.jpg)

@@ -1,4 +1,5 @@
 ---
+layout: single
 published: true
 ---
 ![drive_in_canada.jpg]({{site.baseurl}}/images/drive_in_canada.jpg)

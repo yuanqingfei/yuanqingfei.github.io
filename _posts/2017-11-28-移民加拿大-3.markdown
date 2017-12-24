@@ -1,4 +1,5 @@
 ---
+layout: single
 published: true
 ---
 ![school.jpg]({{site.baseurl}}/images/school.jpg)

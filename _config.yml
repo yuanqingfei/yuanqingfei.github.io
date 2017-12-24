@@ -36,9 +36,9 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # Site Author
 author:
   name             : "yuanqingfei"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a programmer"
-  location         : "Somewhere"
+  avatar           : "/images/self.jpg"
+  bio              : "极高明而道中庸"
+  location         : "Mississauga"
   email            : "yuanqingfei@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"

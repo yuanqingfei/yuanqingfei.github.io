@@ -36,6 +36,10 @@ plugins:
 
 paginate: 5
 
+paginate_path: /recent/page:num/
+
+github: [metadata]
+
 defaults:
   # _posts
   - scope:

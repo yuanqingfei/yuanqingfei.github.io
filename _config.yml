@@ -19,6 +19,9 @@ defaults:
       comments: true
       share: true
       related: true
+      toc: true
+      toc_label: "Table of Contents"
+      toc_icon: "gear"
       
 
 # Sass/SCSS
@@ -200,7 +203,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 
 # Archives
 #  Type

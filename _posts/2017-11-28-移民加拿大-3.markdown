@@ -1,9 +1,9 @@
 ---
 published: true
 ---
-![school.jpg]({{site.baseurl}}/images/school.jpg)
-
 ## 教育
+
+![school.jpg]({{site.baseurl}}/images/school.jpg)
 
 很多人都是为了小孩的教育而甘愿牺牲自己的事业而出国的，对于出国接受教育到底有何得失呢，我还远远不能给出答案，下面我尝试根据我小孩在两个省上了三个多月的课给出自己的印象。
 

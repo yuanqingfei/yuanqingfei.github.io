@@ -21,8 +21,7 @@ defaults:
       related: true
       toc: true
       toc_label: "Table of Contents"
-      toc_icon: "gear"
-      
+      toc_icon: "gear"     
 
 # Sass/SCSS
 sass:
@@ -66,7 +65,7 @@ author:
   tumblr           :
   twitter          : "yuanqingfei"
   vine             :
-  weibo            :
+  weibo            : "yuanqingfei@gmail.com"
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
@@ -74,7 +73,7 @@ author:
 # Site Settings
 locale                   : "en"
 title                    : "为艺术而技术"
-title_separator          : "-"
+title_separator          : "~"
 name                     : "yuanqingfei"
 description              : "yuanqingfei life recording"
 url                      : "https://yuanqingfei.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,7 +81,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yuanqingfei/yuanqingfei.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 150
 comments:
   provider               : "disqus" # "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:

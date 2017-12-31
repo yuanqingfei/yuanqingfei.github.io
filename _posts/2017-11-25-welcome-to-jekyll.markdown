@@ -1,6 +1,6 @@
 ---
 layout: single
-title: _posts/2017-11-25-Hello-World.md
+title: _posts/2017-11-25-welcome-to-jekyll.markdown
 date: '2017-11-25 19:03:32 -0500'
 categories: jekyll update
 published: true

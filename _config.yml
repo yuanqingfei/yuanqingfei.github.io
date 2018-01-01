@@ -22,7 +22,34 @@ defaults:
       related: true
       toc: true
       toc_label: "目录"
-      toc_icon: "gear"     
+      toc_icon: "gear"
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "docs"
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true           
 
 # Sass/SCSS
 sass:
@@ -43,7 +70,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "yuanqingfei"
+  facebook         : 
   foursquare       :
   github           : 
   gitlab           :
@@ -57,7 +84,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "yuanqingfei"
+  twitter          : 
   vine             :
   weibo            : "yuanqingfei"
   xing             :
@@ -65,11 +92,11 @@ author:
 
 
 # Site Settings
-locale                   : "en"
+locale                   : "en-US"
 title                    : "为艺术而技术"
 title_separator          : "~"
-name                     : "yuanqingfei"
-description              : "yuanqingfei life recording"
+name                     : &name "yuanqingfei"
+description              : &description "yuanqingfei life recording"
 url                      : "https://yuanqingfei.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yuanqingfei/yuanqingfei.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,9 +104,9 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 150
 comments:
-  provider               : "disqus" # "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "staticman_v2" #"disqus" # "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : yuanqingfei # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : #yuanqingfei # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # "meta.discourse.org" # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -89,7 +116,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
+  branch                 : "master" # "master"
   commitMessage          : # "New comment."
   filename               : # comment-{@timestamp}
   format                 : # "yml"
@@ -104,6 +131,7 @@ staticman:
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
+  enabled                : false
   siteKey                :
   secret                 :
 atom_feed:
@@ -119,18 +147,20 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter "yuanqingfei"
 facebook:
-  username               :
+  username               : &facebook "yuanqingfei"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /images/self.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+      - "https://twitter.com/yuanqingfei"
+      - "https://facebook.com/yuanqingfei"
 
 # Analytics
 analytics:
@@ -232,7 +262,7 @@ tag_archive:
 permalink: /:categories/:title/
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones   
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones   
 
 
 # HTML Compression

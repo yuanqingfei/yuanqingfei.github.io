@@ -4,6 +4,7 @@ minimal_mistakes_skin: "dirt" # "default" # "air", "aqua", "contrast", "dark", "
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+#  - jekyll-archives
 
 github: [metadata]
 
@@ -20,20 +21,13 @@ defaults:
       share: true
       related: true
       toc: true
-      toc_label: "Table of Contents"
+      toc_label: "目录"
       toc_icon: "gear"     
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-
-# Outputting
-permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones      
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style 
 
 
 # Site Author
@@ -80,7 +74,7 @@ url                      : "https://yuanqingfei.me" # the base hostname & protoc
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yuanqingfei/yuanqingfei.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 150
 comments:
   provider               : "disqus" # "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
@@ -203,8 +197,8 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Archives
-#  Type
+#archives:
+#  type: liquid
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
 #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
 #  Path (examples)
@@ -213,6 +207,7 @@ kramdown:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
+
 category_archive:
   type: liquid
   path: /categories/
@@ -220,16 +215,24 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
+#jekyll-archives:
+#   enabled: 
 #     - categories
 #     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
+#     - year
+#     - month
+#   layouts: archive    
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
+#     year: /:year/
+#     month: /:year-:month/
+     
+# Outputting
+permalink: /:categories/:title/
+paginate: 10 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones   
 
 
 # HTML Compression

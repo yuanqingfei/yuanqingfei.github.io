@@ -1,0 +1,13 @@
+main:
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Scala"
+    url: http://www.scala-lang.org    
+  - title: "Scala-js"
+    url: http://www.scala-js.org    
+  - title: "About"
+    url: /about/

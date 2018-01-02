@@ -9,4 +9,30 @@ published: true
 
 为人，成事，主动，创新，如此而已。。。。
 
+```java
+class Me{
+    public static void main(String args){
+        System.out.println("I am a programmer");
+    }
+}
+```
+
+```python
+print("I am a programmer")
+```
+
+```scala
+object Me {
+  def main(args: Array[String]): Unit = {
+    println("I am a programmer")
+  }
+}
+```
+
+```javascript
+function whoAmI(){
+  alert(“I am a programmer”)
+}
+```
+
 

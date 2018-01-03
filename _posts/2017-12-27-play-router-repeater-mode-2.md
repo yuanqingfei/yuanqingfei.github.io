@@ -5,7 +5,7 @@ tags: router repeater
 ---
 山重水复疑无路，柳暗花明又一村。
 
-昨天刚刚[夸奖了DD-WRT](https://yuanqingfei.me/technique/%E6%8A%98%E8%85%BE%E8%B7%AF%E7%94%B1%E5%99%A8%E4%B8%AD%E7%BB%A7/)，结果文章写完后回去一看，我去，又上不去无线网络了，这稳定性也太差了，于是继续折腾。
+昨天刚刚[夸奖了DD-WRT](https://yuanqingfei.me/technique/play-router-repeater-mode-1/)，结果文章写完后回去一看，我去，又上不去无线网络了，这稳定性也太差了，于是继续折腾。
 
 ## 尝试OpenWrt
 本来是打算根据youtube上的[这个视频](https://www.youtube.com/watch?v=1vsPz_aLZeE)来设置一下的。结果等我把firmare刷上了，才明白[关于设备E3200页面](https://wiki.openwrt.org/toh/linksys/e3200)上面那个大大的惊叹号的意思。我去，这货根本不支持E3200wifi功能，这还怎么玩。 

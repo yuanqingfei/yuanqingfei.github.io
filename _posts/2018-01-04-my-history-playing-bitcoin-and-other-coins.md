@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 categories: finance
 tags: bitcoin coins mining
 ---

@@ -89,6 +89,10 @@ tags: genealogy surname family-tree
 为了隐私，故隐去了一些。。。。
 ![self-tree-min.jpg]({{site.baseurl}}/images/self-tree-min.jpg)
 
+## 一点花絮
+在网上查找资料的时候，发现一个清朝年间一个本家查找族人的记录。
+![interesting.jpg]({{site.baseurl}}/images/interesting.jpg)
+
 
 ## 著名文档
 ### [袁氏世范](https://zh.wikisource.org/zh-hans/%E8%A2%81%E6%B0%8F%E4%B8%96%E7%AF%84)

@@ -122,4 +122,7 @@ tags: genealogy surname family-tree
 
 最后，感谢快100岁的春峰大爷爷，给我讲述那么多家族往事。。。祝您越活越年轻。。。还有一起经常讨论的一堂叔，感谢无私分享。
 
-友情链接：[袁氏宗亲网](http://www.yuanszq.com/)
+友情链接：
+
+[袁氏宗亲网](http://www.yuanszq.com/)
+[华人家谱](http://jp.library.sh.cn/jp/home/index)

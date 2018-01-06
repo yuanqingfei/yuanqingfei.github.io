@@ -3,11 +3,7 @@ published: true
 categories: arts
 tags: genealogy surname family-tree
 ---
-今天聊聊我们家的家谱。多图，慎点。
-
-![Yuan_character_(1st_century).png]({{site.baseurl}}/images/Yuan_character_(1st_century).png)
-
-在出国前的2012年到2015年曾经对我们家族的家谱/族谱做过一点研究，现在放在网上，希望能对有兴趣的朋友有所帮助，也希望能交到更多本家朋友。
+我是谁，我来自哪里，我将去向何方。。。
 
 ## 袁姓来源
 根据[维基百科](https://zh.wikipedia.org/wiki/%E8%BD%85%E5%AE%A3%E4%BB%B2)，袁姓来自轅涛涂，其人摘录如下。
@@ -18,11 +14,17 @@ tags: genealogy surname family-tree
 ## 袁姓源流
 根据[《史记 五帝本纪》](http://www.guoxue.com/book/shiji/0001.htm)。
 >黄帝二十五子，其得姓者十四人。
+
 >黄帝居轩辕之丘，而娶於西陵之女，是为嫘祖。嫘祖为黄帝正妃，生二子，其後皆有天下：其一曰玄嚣，是为青阳，青阳降居江水；其二曰昌意，降居若水。昌意娶蜀山氏女，曰昌仆，生高阳，高阳有圣德焉。黄帝崩，葬桥山。其孙昌意之子高阳立，是为帝颛顼也。
+
 >帝颛顼生子曰穷蝉。颛顼崩，而玄嚣之孙高辛立，是为帝喾。
+
 >帝喾高辛者，黄帝之曾孙也。高辛父曰蟜极，蟜极父曰玄嚣，玄嚣父曰黄帝。自玄嚣与蟜极皆不得在位，至高辛即帝位。高辛於颛顼为族子
+
 >帝喾娶陈锋氏女，生放勋。娶娵訾氏女，生挚。帝喾崩，而挚代立。帝挚立，不善，而弟放勋立，是为帝尧。
+
 >虞舜者，名曰重华。重华父曰瞽叟，瞽叟父曰桥牛，桥牛父曰句望，句望父曰敬康，敬康父曰穷蝉，穷蝉父曰帝颛顼，颛顼父曰昌意：以至舜七世矣。自从穷蝉以至帝舜，皆微为庶人。
+
 >自黄帝至舜、禹，皆同姓而异其国号，以章明德。故黄帝为有熊，帝颛顼为高阳，帝喾为高辛，帝尧为陶唐，帝舜为有虞。帝禹为夏后而别氏，姓姒氏。契为商，姓子氏。弃为周，姓姬氏。
 
 舜 --> 商均 -->... --> 遏父（瘀父，阏父） --> 妫满（胡公，舜第32世孙） -->... -->诸（字伯爰，妫满第11世孙）-->... -->宣仲（涛涂，妫满第13世孙）
@@ -63,6 +65,14 @@ tags: genealogy surname family-tree
 ![realJingshi1-min.jpg]({{site.baseurl}}/images/realJingshi1-min.jpg)
 
 
+**振江**祖:
+![zhenjiang0-min.jpg]({{site.baseurl}}/images/zhenjiang0-min.jpg)
+
+![zhenjiang1-min.jpg]({{site.baseurl}}/images/zhenjiang1-min.jpg)
+
+![zhenjiang2-min.jpg]({{site.baseurl}}/images/zhenjiang2-min.jpg)
+
+
 **思述**祖:
 ![sishu0-min.jpg]({{site.baseurl}}/images/sishu0-min.jpg)
 
@@ -71,14 +81,6 @@ tags: genealogy surname family-tree
 ![sishu2-min.jpg]({{site.baseurl}}/images/sishu2-min.jpg)
 
 ![sishu3-min.jpg]({{site.baseurl}}/images/sishu3-min.jpg)
-
-
-**振江**祖:
-![zhenjiang0-min.jpg]({{site.baseurl}}/images/zhenjiang0-min.jpg)
-
-![zhenjiang1-min.jpg]({{site.baseurl}}/images/zhenjiang1-min.jpg)
-
-![zhenjiang2-min.jpg]({{site.baseurl}}/images/zhenjiang2-min.jpg)
 
 
 **春峰**大爷爷:

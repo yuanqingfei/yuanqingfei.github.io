@@ -90,7 +90,7 @@ tags: genealogy surname family-tree
 ![self-tree-min.jpg]({{site.baseurl}}/images/self-tree-min.jpg)
 
 ## 一点花絮
-在网上查找资料的时候，发现一个清朝年间一个本家查找族人的记录。
+在网上查找资料的时候，发现一个清朝年间一个告诫族人的《联谱慎重》。里面提到了兰山县大冶庄，应该就是我们村。只是里面的人（袁右，袁炎两兄弟），并没有在家谱里面找到。可惜可惜。。。
 ![interesting.jpg]({{site.baseurl}}/images/interesting.jpg)
 
 

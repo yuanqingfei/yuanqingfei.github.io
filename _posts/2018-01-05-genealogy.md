@@ -16,7 +16,7 @@ tags: genealogy surname family-tree
 >轅涛涂（或作袁濤塗）封在阳夏（今河南太康），以其祖父庄爰的字为姓，成為袁姓的始祖，但是古时「袁」、「爰」、「辕」、「榬」、「溒」、「援」等字相通。正如《袁枢年谱》所云「一姓有六字五族之异」。据《新唐书·宰相世系》，到秦末时，辕涛涂的裔孙辕告避难与黄河、洛水之间。辕告之子「政」，正式以袁为氏，而後所有「袁」、「爰」、「辕」等氏族，正式普遍地改用袁姓。
 
 根据《[古今姓氏辩证](http://ctext.org/wiki.pl?if=gb&chapter=809971&remap=gb#p11)》：
-![20180105_193834.jpg]({{site.baseurl}}/images/20180105_193834.jpg)
+![gujinbianzheng-min.jpg]({{site.baseurl}}/images/gujinbianzheng-min.jpg)
 
 
 ## 本族来源
@@ -25,45 +25,51 @@ tags: genealogy surname family-tree
 
 后又有十三世祖**璞**祖于乾隆四十四年（公元1779年）续谱。十五世祖**可纶**祖于嘉庆十九年（公元1814年）续谱。其后，**经世**祖续谱，十七世祖**振江**祖第五次续谱，十九世祖**照晋**祖第六次续谱，二十世祖**春峰**祖七续谱
 
+
 **应荐**祖:
-![yingjian0.jpg]({{site.baseurl}}/images/yingjian0.jpg)
+![yingjian0-min.jpg]({{site.baseurl}}/images/yingjian0-min.jpg)
+
 
 **可纶**祖：
-![kelun_saying0.jpg]({{site.baseurl}}/images/kelun_saying0.jpg)
+![kelun_saying0-min.jpg]({{site.baseurl}}/images/kelun_saying0-min.jpg)
 
-![kelun_saying1.jpg]({{site.baseurl}}/images/kelun_saying1.jpg)
+![kelun_saying1-min.jpg]({{site.baseurl}}/images/kelun_saying1-min.jpg)
 
-![kelun_saying2.jpg]({{site.baseurl}}/images/kelun_saying2.jpg)
+![kelun_saying2-min.jpg]({{site.baseurl}}/images/kelun_saying2-min.jpg)
+
 
 **经世**祖:
-![realJingshi0.jpg]({{site.baseurl}}/images/realJingshi0.jpg)
+![realJingshi0-min.jpg]({{site.baseurl}}/images/realJingshi0-min.jpg)
 
-![realJingshi1.jpg]({{site.baseurl}}/images/realJingshi1.jpg)
+![realJingshi1-min.jpg]({{site.baseurl}}/images/realJingshi1-min.jpg)
+
 
 **思述**祖:
-![sishu0.jpg]({{site.baseurl}}/images/sishu0.jpg)
+![sishu0-min.jpg]({{site.baseurl}}/images/sishu0-min.jpg)
 
-![sishu1.jpg]({{site.baseurl}}/images/sishu1.jpg)
+![sishu1-min.jpg]({{site.baseurl}}/images/sishu1-min.jpg)
 
-![sishu2.jpg]({{site.baseurl}}/images/sishu2.jpg)
+![sishu2-min.jpg]({{site.baseurl}}/images/sishu2-min.jpg)
 
-![sishu3.jpg]({{site.baseurl}}/images/sishu3.jpg)
+![sishu3-min.jpg]({{site.baseurl}}/images/sishu3-min.jpg)
+
 
 **振江**祖:
-![zhenjiang0.jpg]({{site.baseurl}}/images/zhenjiang0.jpg)
+![zhenjiang0-min.jpg]({{site.baseurl}}/images/zhenjiang0-min.jpg)
 
-![zhenjiang1.jpg]({{site.baseurl}}/images/zhenjiang1.jpg)
+![zhenjiang1-min.jpg]({{site.baseurl}}/images/zhenjiang1-min.jpg)
 
-![zhenjiang2.jpg]({{site.baseurl}}/images/zhenjiang2.jpg)
+![zhenjiang2-min.jpg]({{site.baseurl}}/images/zhenjiang2-min.jpg)
 
 
-**春峰**祖:
+**春峰**大爷爷:
 
-![2013-09-30_14-20-40_630.jpg]({{site.baseurl}}/images/2013-09-30_14-20-40_630.jpg)
+![chunfeng0-min.jpg]({{site.baseurl}}/images/chunfeng0-min.jpg)
 
-![2013-09-30_14-21-37_743.jpg]({{site.baseurl}}/images/2013-09-30_14-21-37_743.jpg)
+![chunfeng1-min.jpg]({{site.baseurl}}/images/chunfeng1-min.jpg)
 
-![2013-09-30_14-21-44_49.jpg]({{site.baseurl}}/images/2013-09-30_14-21-44_49.jpg)
+![chunfeng2-min.jpg]({{site.baseurl}}/images/chunfeng2-min.jpg)
+
 
 
 ## 本族字辈
@@ -73,18 +79,15 @@ tags: genealogy surname family-tree
 第九次续谱 新拟定排行字 20个
 40 家 41 传 42 有 43 纪 44 方 45 德 46 厚 47 生 48 栋 49 梁 50 仁 51 义 52 礼 53 智 54 信 55 平 56 安 57 福 58 寿 59 长
 
-![banbei.jpg]({{site.baseurl}}/images/banbei.jpg)
+![banbei-min.jpg]({{site.baseurl}}/images/banbei-min.jpg)
 
-![banbei2.jpg]({{site.baseurl}}/images/banbei2.jpg)
+![banbei2-min.jpg]({{site.baseurl}}/images/banbei2-min.jpg)
+
  
 ## 本人支系
-根据以下基本家谱，基本得出本人世系。
-![jiapu0.jpg]({{site.baseurl}}/images/jiapu0.jpg)
-![jiapu1.jpg]({{site.baseurl}}/images/jiapu1.jpg)
-![jiapu2.jpg]({{site.baseurl}}/images/jiapu2.jpg)
 
 为了隐私，故隐去了一些。。。。
-![20180105_193809.jpg]({{site.baseurl}}/images/20180105_193809.jpg)
+![self-tree-min.jpg]({{site.baseurl}}/images/self-tree-min.jpg)
 
 
 ## 著名文档
@@ -94,3 +97,5 @@ tags: genealogy surname family-tree
 ### 人需要知道我是谁，我来自哪里，我将去向何方。
 ### 人不能忘本。
 ### 对于普通人来说，还是多生孩子吧，也许他会永远记得你。
+
+最后，感谢快100岁的春峰大爷爷，给我讲述那么多家族往事。。。祝您越活越年轻。。。

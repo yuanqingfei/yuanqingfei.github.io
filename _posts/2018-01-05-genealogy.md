@@ -107,7 +107,7 @@ tags: genealogy surname family-tree
  
 ## 本人支系
 
-为了隐私，故隐去了一些。。。。
+我是第22世，为了隐私，故隐去了。。。。
 ![self-tree-min.jpg]({{site.baseurl}}/images/self-tree-min.jpg)
 
 ## 一点花絮

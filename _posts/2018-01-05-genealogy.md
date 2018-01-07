@@ -124,7 +124,7 @@ tags: genealogy surname family-tree
 
 ## 待考事宜
 
-始迁祖清到朱仓后后人如何迁移至大冶？ 路线图？目前知道第5世**文**祖住岗上，第9世**鹏**祖就开始在大冶了。
+始迁祖清到朱仓后后人如何迁移至大冶？ 路线图？目前知道第5世**文**祖住岗上，第9世**鹏**祖就开始在大冶了。大冶袁氏即使从第9世开始算起，到现在也有400多年了。
 ![wenzu-min.jpg]({{site.baseurl}}/images/wenzu-min.jpg)
 ![pengzu-min.jpg]({{site.baseurl}}/images/pengzu-min.jpg)
 

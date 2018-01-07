@@ -104,7 +104,7 @@ tags: genealogy surname family-tree
  
 ## 本人支系
 
-我是长支洪祖之后，为第22世，为了隐私，故隐去了。。。。
+我是长支洪祖之后，大冶一支，为第22世，为了隐私，故隐去了。。。。
 ![self-tree-min.jpg]({{site.baseurl}}/images/self-tree-min.jpg)
 
 ## 关于石沟营

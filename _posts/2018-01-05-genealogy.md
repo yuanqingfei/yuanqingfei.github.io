@@ -96,7 +96,6 @@ tags: genealogy surname family-tree
 ```40 家 41 传 42 有 43 纪 44 方 45 德 46 厚 47 生 48 栋 49 梁 50 仁 51 义 52 礼 53 智 54 信 55 平 56 安 57 福 58 寿 59 长```
 
 ![banbei-min.jpg]({{site.baseurl}}/images/banbei-min.jpg)
-![banbei2-min.jpg]({{site.baseurl}}/images/banbei2-min.jpg)
 
  
 ## 本人支系
@@ -121,7 +120,7 @@ tags: genealogy surname family-tree
 
 ## 待考事宜
 
-* 始迁祖清到朱仓后后人如何迁移至大冶？ 路线图？目前知道第5世**文**祖住岗上，第9世**鹏**祖就开始在大冶了。大冶袁氏即使从第9世开始算起，到现在也有400多年了。
+* 始迁祖清到朱仓后后人如何迁移至大冶？ 路线图？目前知道第5世**文**祖住岗上，中间应该是在曲坊，第9世**鹏**祖就开始在大冶了。大冶袁氏即使从第9世开始算起，到现在也有400多年了。
 ![wenzu-min.jpg]({{site.baseurl}}/images/wenzu-min.jpg)
 ![pengzu-min.jpg]({{site.baseurl}}/images/pengzu-min.jpg)
 

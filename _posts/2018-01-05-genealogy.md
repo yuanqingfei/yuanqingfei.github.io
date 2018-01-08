@@ -43,7 +43,7 @@ tags: genealogy surname family-tree
 ## 本族来源
 根据家谱记载，本族是卧雪堂，故属于汝南袁氏。始迁祖 **清** 于元末明初自海州（今江苏连云港）迁至朱仓（今山东临沂朱仓乡）。自此开始繁衍20多代，人口超过20多万。所以又叫[朱仓袁氏](https://baike.baidu.com/item/%E6%9C%B1%E4%BB%93%E8%A2%81%E6%B0%8F)。
 
-* 第一个立家谱的八世祖**应荐**祖于万历二十一年（公元1593）首次续谱。
+* 八世祖**应荐**祖于万历二十一年（公元1593）首次续谱。
 * 十三世祖**璞**祖续谱。
 * 十五世祖**可抡**祖于于乾隆四十四年（公元1779年）续谱。
 * 十五世祖**经仕**祖于嘉庆十九年（公元1814年）续谱，
@@ -58,42 +58,32 @@ tags: genealogy surname family-tree
 
 **可纶**祖：
 ![kelun_saying0-min.jpg]({{site.baseurl}}/images/kelun_saying0-min.jpg)
-
 ![kelun_saying1-min.jpg]({{site.baseurl}}/images/kelun_saying1-min.jpg)
-
 ![kelun_saying2-min.jpg]({{site.baseurl}}/images/kelun_saying2-min.jpg)
 
 
 **经仕**祖:
 ![realJingshi0-min.jpg]({{site.baseurl}}/images/realJingshi0-min.jpg)
-
 ![realJingshi1-min.jpg]({{site.baseurl}}/images/realJingshi1-min.jpg)
 
 
 **振江**祖:
 ![zhenjiang0-min.jpg]({{site.baseurl}}/images/zhenjiang0-min.jpg)
-
 ![zhenjiang1-min.jpg]({{site.baseurl}}/images/zhenjiang1-min.jpg)
-
 ![zhenjiang2-min.jpg]({{site.baseurl}}/images/zhenjiang2-min.jpg)
 
 
 **思述**祖:
 ![sishu0-min.jpg]({{site.baseurl}}/images/sishu0-min.jpg)
-
 ![sishu1-min.jpg]({{site.baseurl}}/images/sishu1-min.jpg)
-
 ![sishu2-min.jpg]({{site.baseurl}}/images/sishu2-min.jpg)
-
 ![sishu3-min.jpg]({{site.baseurl}}/images/sishu3-min.jpg)
 
 
 **春峰**大爷爷:
 
 ![chunfeng0-min.jpg]({{site.baseurl}}/images/chunfeng0-min.jpg)
-
 ![chunfeng1-min.jpg]({{site.baseurl}}/images/chunfeng1-min.jpg)
-
 ![chunfeng2-min.jpg]({{site.baseurl}}/images/chunfeng2-min.jpg)
 
 
@@ -106,7 +96,6 @@ tags: genealogy surname family-tree
 ```40 家 41 传 42 有 43 纪 44 方 45 德 46 厚 47 生 48 栋 49 梁 50 仁 51 义 52 礼 53 智 54 信 55 平 56 安 57 福 58 寿 59 长```
 
 ![banbei-min.jpg]({{site.baseurl}}/images/banbei-min.jpg)
-
 ![banbei2-min.jpg]({{site.baseurl}}/images/banbei2-min.jpg)
 
  

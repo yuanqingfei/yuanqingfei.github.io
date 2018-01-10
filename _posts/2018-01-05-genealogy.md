@@ -48,15 +48,15 @@ tags: genealogy surname family-tree
 * 十五世祖**可抡**祖于于乾隆四十四年（公元1779年）续谱。
 * 十五世祖**经仕**祖于嘉庆十九年（公元1814年）续谱，
 * 十七世祖**振江**祖于道光十八年、同治十三年、光绪十九年（公元1838年，公元1874年，公元1893年）第五次续谱，
-* 十九世祖**照晋**祖第六次续谱
-* 二十世祖**春峰**祖七续谱
+* 十九世祖**照晋(应该是照信)**祖第六次续谱，
+* 二十世祖**春峰**祖七续谱。
 
 
 **应荐**祖:
 ![yingjian0-min.jpg]({{site.baseurl}}/images/yingjian0-min.jpg)
 
 
-**可纶**祖：
+**可抡**祖：
 ![kelun_saying0-min.jpg]({{site.baseurl}}/images/kelun_saying0-min.jpg)
 ![kelun_saying1-min.jpg]({{site.baseurl}}/images/kelun_saying1-min.jpg)
 ![kelun_saying2-min.jpg]({{site.baseurl}}/images/kelun_saying2-min.jpg)
@@ -78,6 +78,10 @@ tags: genealogy surname family-tree
 ![sishu1-min.jpg]({{site.baseurl}}/images/sishu1-min.jpg)
 ![sishu2-min.jpg]({{site.baseurl}}/images/sishu2-min.jpg)
 ![sishu3-min.jpg]({{site.baseurl}}/images/sishu3-min.jpg)
+
+**照信**祖
+![zhaoxin1-min.jpg]({{site.baseurl}}/images/zhaoxin1-min.jpg)
+![zhaoxin2-min.jpg]({{site.baseurl}}/images/zhaoxin2-min.jpg)
 
 
 **春峰**大爷爷:

@@ -137,6 +137,8 @@ tags: genealogy surname family-tree
 
 [袁氏宗亲网](http://www.yuanszq.com/)
 
+[袁氏族谱目录](http://www.yuanscn.com/htmls/notes.htm)
+
 [华人家谱](http://jp.library.sh.cn/jp/home/index)
 
 [天下袁氏出太康](https://kknews.cc/history/oma8q5.html)

@@ -1,5 +1,7 @@
 ---
 published: true
+categories: immigration
+tags: benefit education money fake medicial pension
 ---
 
 试图揭开一些关于加拿大的虚假的概念

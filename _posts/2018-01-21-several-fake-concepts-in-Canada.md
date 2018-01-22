@@ -23,7 +23,7 @@ tags: benefit education money fake medicial pension
 由于加拿大已经是个老龄化国家了，国民平均年龄已经超过40岁。国家养老负担其实是很重的，这也就是为什么要找这么多移民的主要原因 --- 要帮现在的老人先养老。
 ![old-canada.png]({{site.baseurl}}/images/old-canada.png)
 
-这边养老是在65岁之后，主要分为两大块，一个方面是政府方面的，分为三部分：[老人金（OAS）](https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html)，[CPP](https://www.canada.ca/en/services/benefits/publicpensions/cpp.html)以及[补充养老（GIS）](https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/guaranteed-income-supplement.html)，老人金全额大概600加币多，在加拿大住满40年可以领取全额，只住满10年的话，就领取四分之一，大概不到100多块。CPP需要你在加拿大工作满10年后才可以领取（中国目前是满15年），现在的2017平均[领取额度是641](https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/amount.html), 华人大部分由于工作时间短，也就领取一半左右，也就是300加币左右。还有补充养老，加在一起，保证你65岁之后每月收入在1000元加币左右，这个钱其实只能保证你在加拿大饿不死而已。另外有人说RRSP，这个东西其实是自己的钱，只是把年轻的钱存下来，[到65岁（政府建议71岁）再使](http://www.moneysense.ca/save/retirement/rrif/convert-rrsp-to-rrif/)用。只是延税，并非免税。 另外一方面就是主要靠单位的企业年金了，只是和中国一样，不是每个公司有有企业年金。
+这边养老是在65岁之后，主要分为两大块，一个方面是政府方面的，分为三部分：[老人金（OAS）](https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html)，[CPP](https://www.canada.ca/en/services/benefits/publicpensions/cpp.html)以及[补充养老（GIS）](https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/guaranteed-income-supplement.html)，老人金全额大概600加币多，在加拿大住满40年可以领取全额，以住满20年为例，就领取一半，大概300多块。CPP需要你在加拿大工作满10年后才可以领取（中国的政府养老金目前是满15年），现在的2017平均[领取额度是641](https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/amount.html), 华人大部分由于工作时间短，也就领取一半左右，也就是300加币左右。还有补充养老，加在一起，保证你65岁之后每月收入在1000元加币左右，这个钱其实只能保证你在加拿大饿不死而已。另外有人说[RRSP](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/registered-retirement-savings-plan-rrsp.html)，这个东西其实是自己的钱，只是把年轻的钱存下来，[到65岁（政府建议71岁）再使](http://www.moneysense.ca/save/retirement/rrif/convert-rrsp-to-rrif/)用。只是延税，并非免税。 另外一方面就是主要靠单位的企业年金了，只是和中国一样，不是每个公司有有企业年金。
 
 ### 免费发钱
 只有在加拿大什么工作都没有，银行账户存款小于1000元加币的人可以领取，也不多，保证你饿不死。其实能来加拿大的都是有点资本的，没有点钱或者上进心的，加拿大政府也不会让你移民过来（当然假结婚，偷渡或者其他非法手段进来的不算）。大部分人是不会沦落至此的。就和国内的低保差不多。
@@ -94,7 +94,7 @@ tags: benefit education money fake medicial pension
 一听说怀孕了，马上给安排家庭医生，生产服务非常到位，一个老龄化国家对下一代的呵护是非常真诚的。必须要承认这一点。
 
 ## 这边有牛奶金和退税
-一个小孩最多牛奶金是450块加币左右，我们家大概由于当时报的国内收入在这边还算可以，小孩牛奶金就少一些350加币一个月。GST/HST退税大概每个月能有几十块加币。生小孩越多，牛奶金越多。
+一个小孩最多[牛奶金是450块加币左右](https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit-overview/canada-child-benefit-we-calculate-your-ccb.html)，我们家大概由于当时报的国内收入在这边还算可以，小孩牛奶金就少一些350加币一个月。GST/HST退税大概每个月能有几十块加币。生的多，拿的多。
 
 **********
 

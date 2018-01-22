@@ -20,7 +20,7 @@ tags: benefit education money fake medicial pension
 的确，这边的中小学教育是免费的，可是大学是收学费的，而且由于都是私立大学，学费非常贵，以多伦多大学为例,学费在[1万加币](http://www.utsc.utoronto.ca/admissions/tuition-fees)，加上住宿费和生活费，一年大概2万加币，大概是一般家庭平均税后年收入的1/3。四年大学就是10万加币（医生和计算机专业可能要更贵一些）。所以从小存大学学费是很正常的，有一个项目叫[RESP](https://www.canada.ca/en/employment-social-development/services/student-financial-aid/education-savings/resp.html)就是为这个而来的，可是能否考上大学是另外一个话题，下面会有涉及。另外就是助学贷款了。在安省，叫[OSAP](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR015046.html)。
 
 ### 免费养老
-由于加拿大已经是个老龄化国家了，国民平均年龄已经超过40岁。国家养老负担其实是很重的，这也就是为什么要找这么多移民的主要原因 ---- 要帮现在的老人先养老。
+由于加拿大已经是个老龄化国家了，国民平均年龄已经超过40岁。国家养老负担其实是很重的，这也就是为什么要找这么多移民的主要原因 --- 要帮现在的老人先养老。
 ![old-canada.png]({{site.baseurl}}/images/old-canada.png)
 
 这边养老是在65岁之后，主要分为两大块，一个方面是政府方面的，分为三部分：[老人金（OAS）](https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html)，[CPP](https://www.canada.ca/en/services/benefits/publicpensions/cpp.html)以及[补充养老（GIS）](https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/guaranteed-income-supplement.html)，老人金全额大概600加币多，在加拿大住满40年可以领取全额，只住满10年的话，就领取四分之一，大概不到100多块。CPP需要你在加拿大工作满10年后才可以领取（中国目前是满15年），现在的2017平均[领取额度是641](https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/amount.html), 华人大部分由于工作时间短，也就领取一半左右，也就是300加币左右。还有补充养老，加在一起，保证你65岁之后每月收入在1000元加币左右，这个钱其实只能保证你在加拿大饿不死而已。另外有人说RRSP，这个东西其实是自己的钱，只是把年轻的钱存下来，[到65岁（政府建议71岁）再使](http://www.moneysense.ca/save/retirement/rrif/convert-rrsp-to-rrif/)用。只是延税，并非免税。 另外一方面就是主要靠单位的企业年金了，只是和中国一样，不是每个公司有有企业年金。
@@ -79,7 +79,7 @@ tags: benefit education money fake medicial pension
 除了英语有所提高，其他确实感觉如此，难怪很多华人都还是要给小孩上补习班，不上总不能让小孩老玩电子游戏吧。具体参考[这篇博文。](https://yuanqingfei.me/immigration/immigrate-to-canada-3/)
 
 ## 这边生活成本很高
-两个大人一个小孩大概每月20000人民币。这也是很多人来了之后马上要找工作的原因，因为坐吃山空很快就真空了。我们家在我们没有工作的那四个月除掉买房买车之外另外花了20万人民币，而且我们还没有感觉怎么花钱。具体请参考[这篇博文](https://yuanqingfei.me/immigration/immigrate-to-canada-2/)。
+两个大人一个小孩大概每月20000人民币。这也是很多人来了之后马上要找工作的原因，因为坐吃山空很快就真空了。我们家在我们没有工作的那四个月除掉买房买车之外另外花了20万人民币，而且我们还没有感觉怎么花钱。这么理解可能更直接，按照余额宝4个点的年化收益率，在中国县城一级财务自由需要存200万人民币（每年8万），在北上广财务自由需要存400万人民币，在加拿大需要存600万人民币。具体请参考[这篇博文](https://yuanqingfei.me/immigration/immigrate-to-canada-2/)。
 
 ## 这边华人一盘散沙
 事实上这边一些老移民来加拿大那么多年了，依然保留很多不好的品质，比如乱扣帽子，比如无理撒泼，比如只注重眼前，比如互相鄙视。在他们自己看来已经融入加拿大了，其实恰恰没有。本来人口比例就低，又不团结，所以导致在主流社会里面没有自己的声音。没有安全感也是很自然的事情了。

@@ -17,10 +17,10 @@ tags: benefit education money fake medicial pension
 加拿大政府可能最值得炫耀的一点，说白了就是住院不要钱，但是平时不住院的时候拿处方药还是要自己出钱的（如果你工作，你的雇主可能会每年帮你买保险，保多少呢？ 每年大概1000块钱的买要钱）。另外，牙科，眼科，免费医疗也是不包括的，需要自己单独付钱。（如果你工作，同样你的雇主可能会每年帮你买大概1000块钱额度的牙科或者眼科保险）。所以我们可以看出来工作是多么重要，有工作就有很多保险，没有自己买就非常贵。国外人之所以怕失业就有这方面的原因。 最后吐糟一点就是这边看急诊的等待时间，很多人也吐糟过，实际上看急诊的话等3到7个小时是很正常的，看专科门诊的等待时间[大概要将近三个月](https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2017)
 
 ### 免费教育
-的确，这把的中小学教育是免费的，可是大学是收学费的，而且由于都是私立大学，学费非常贵，以多伦多大学为例,学费在[1万加币](http://www.utsc.utoronto.ca/admissions/tuition-fees)，加上住宿费和生活费，一年大概2万加币，大概是一般家庭平均税后年收入的1/3。四年大学就是10万加币（医生和计算机专业可能要更贵一些）。所以从小存大学学费是很正常的，有一个项目叫[RESP](https://www.canada.ca/en/employment-social-development/services/student-financial-aid/education-savings/resp.html)就是为这个而来的，可是能否考上大学是另外一个话题，下面会有涉及。另外就是助学贷款了。在安省，叫[OSAP](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR015046.html)。
+的确，这边的中小学教育是免费的，可是大学是收学费的，而且由于都是私立大学，学费非常贵，以多伦多大学为例,学费在[1万加币](http://www.utsc.utoronto.ca/admissions/tuition-fees)，加上住宿费和生活费，一年大概2万加币，大概是一般家庭平均税后年收入的1/3。四年大学就是10万加币（医生和计算机专业可能要更贵一些）。所以从小存大学学费是很正常的，有一个项目叫[RESP](https://www.canada.ca/en/employment-social-development/services/student-financial-aid/education-savings/resp.html)就是为这个而来的，可是能否考上大学是另外一个话题，下面会有涉及。另外就是助学贷款了。在安省，叫[OSAP](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR015046.html)。
 
 ### 免费养老
-这把养老是在65岁之后，主要分为两大块，一个方面是政府方面的，分为三部分：[老人金（OAS）](https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html)，[CPP](https://www.canada.ca/en/services/benefits/publicpensions/cpp.html)以及[补充养老（GIS）](https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/guaranteed-income-supplement.html)，老人金全额大概600多，在加拿大住满40年可以领取全额，只住满10年的话，就领取四分之一，大概不到100多块。CPP需要你在加拿大工作满10年后才可以领取（中国目前是满15年），现在的2017平均[领取额度是641](https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/amount.html), 华人大部分由于工作时间短，也就领取一半左右，也就是300左右。还有补充养老，加在一起，保证你65岁之后每月收入在1000元左右，这个钱其实只能保证你在加拿大饿不死而已。另外有人说RRSP，这个东西其实是自己的钱，只是把年轻的钱存下来，[到65岁（政府建议71岁）再使](http://www.moneysense.ca/save/retirement/rrif/convert-rrsp-to-rrif/)用。只是延税，并非免税。 另外一方面就是主要靠单位的企业年金了，只是和中国一样，不是每个公司有有企业年金。
+这边养老是在65岁之后，主要分为两大块，一个方面是政府方面的，分为三部分：[老人金（OAS）](https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security.html)，[CPP](https://www.canada.ca/en/services/benefits/publicpensions/cpp.html)以及[补充养老（GIS）](https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/guaranteed-income-supplement.html)，老人金全额大概600多，在加拿大住满40年可以领取全额，只住满10年的话，就领取四分之一，大概不到100多块。CPP需要你在加拿大工作满10年后才可以领取（中国目前是满15年），现在的2017平均[领取额度是641](https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/amount.html), 华人大部分由于工作时间短，也就领取一半左右，也就是300左右。还有补充养老，加在一起，保证你65岁之后每月收入在1000元左右，这个钱其实只能保证你在加拿大饿不死而已。另外有人说RRSP，这个东西其实是自己的钱，只是把年轻的钱存下来，[到65岁（政府建议71岁）再使](http://www.moneysense.ca/save/retirement/rrif/convert-rrsp-to-rrif/)用。只是延税，并非免税。 另外一方面就是主要靠单位的企业年金了，只是和中国一样，不是每个公司有有企业年金。
 
 ### 免费发钱
 只有在加拿大什么工作都没有，银行账户存款小于1000元的人可以领取，也不多，保证你饿不死。其实能来加拿大的都是有点资本的，没有点钱或者上进心的，加拿大政府也不会让你移民过来（当然假结婚，偷渡或者其他非法手段进来的不算）。大部分人是不会沦落至此的。就和国内的低保差不多。
@@ -64,7 +64,7 @@ tags: benefit education money fake medicial pension
 不强真的没有办法，对于家庭税后收入5000块钱的家庭来说，修个水管上门费200是个不小的负担，更不用说理发，汽车保养，剪草之类的。
 
 ## 这边没有娱乐
-其实也不是一点没有，有很多人自己在家里开party。但是国人热衷的KTV之类的是很少很少的。 至于洗脚按摩之类（正规的），很贵，白人开的一个小时100-130加币（不要忘记家庭税后月收入是5000块）。当然有公司的话，可以保险90%。但是这把按摩质量真的很差。
+其实也不是一点没有，有很多人自己在家里开party。但是国人热衷的KTV之类的是很少很少的。 至于洗脚按摩之类（正规的），很贵，白人开的一个小时100-130加币（不要忘记家庭税后月收入是5000块）。当然有公司的话，可以保险90%。但是这边按摩质量真的很差。
 
 ## 这边涨工资很慢
 多慢呢，据前辈讲每年 涨1.6%-1.8% 大概。供参考。
@@ -78,6 +78,9 @@ tags: benefit education money fake medicial pension
 ## 这边生活成本很高
 两个大人一个小孩大概每月20000人民币。这也是很多人来了之后马上要找工作的原因，因为坐吃山空很快就真空了。我们家在我们没有工作的那四个月除掉买房买车之外另外花了20万人民币，而且我们还没有感觉怎么花钱。具体请参考[这篇博文](https://yuanqingfei.me/immigration/immigrate-to-canada-2/)。
 
+## 这边华人一盘散沙
+事实上这边一些老移民来加拿大那么多年了，依然保留很多不好的品质，比如乱扣帽子，比如无理撒泼，比如只注重眼前，比如互相鄙视。在他们自己看来已经融入加拿大了，其实恰恰没有。本来人口比例就低，又不团结，所以导致在主流社会里面没有自己的声音。没有安全感也是很自然的事情了。
+
 ## 这边奢侈品便宜
 比国内便宜，无论是汽车还是其他高档货。
 
@@ -87,6 +90,10 @@ tags: benefit education money fake medicial pension
 ## 这边生小孩好
 一听说怀孕了，马上给安排家庭医生，生产服务非常到位，一个老龄化国家对下一代的呵护是非常真诚的。必须要承认这一点。
 
+## 这边有牛奶金和退税
+一个小孩最多牛奶金是450块左右，我们家大概由于当时报的国内收入在这边还算可以，小孩牛奶金就少一些350一个月。GST/HST退税大概每个月能有几十块。生小孩越多，牛奶金越多。
+
 **********
 
-为了不以偏概全，再说一遍这个国家的好处： **人比较友善，整体素质比较高；包括空气在内的自然环境好；食品好；互联网自由**
+为了不以偏概全，再说一遍这个国家的好处： 
+         **人比较友善，整体素质比较高；包括空气在内的自然环境好；食品好；互联网自由**

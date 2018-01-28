@@ -14,10 +14,10 @@ tags: benefit education money fake medicial pension
 根据国人的脾性，很多人都是冲着加拿大的福利国家的名头来的，兴冲冲的过来薅羊毛，我真诚的要告诉这部分同胞，你们很可能要被加拿大政府反过来薅羊毛。
 
 ### 免费医疗
-加拿大政府可能最值得炫耀的一点，说白了就是住院不要钱，但是平时不住院的时候拿处方药还是要自己出钱的（如果你工作，你的雇主可能会每年帮你买保险，保多少呢？ 每年大概1000块钱加币的买要钱）。另外，牙科，眼科，免费医疗也是不包括的，需要自己单独付钱。（如果你工作，同样你的雇主可能会每年帮你买大概1000块钱加币额度的牙科或者眼科保险）。所以我们可以看出来工作是多么重要，有工作就有很多保险，没有自己买就非常贵。国外人之所以怕失业就有这方面的原因。 最后吐糟一点就是这边看急诊的等待时间，很多人也吐糟过，实际上看急诊的话等3到7个小时是很正常的，看专科门诊的等待时间[大概要将近三个月](https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2017)
+加拿大政府可能最值得炫耀的一点，说白了就是住院不要钱，但是平时不住院的时候拿处方药还是要自己出钱的（如果你工作，你的雇主可能会每年帮你买保险，保多少呢？ 每年大概1000块钱加币的买药钱）。另外，牙科，眼科，免费医疗也是不包括的，需要自己单独付钱。（如果你工作，同样你的雇主可能会每年帮你买大概1000块钱加币额度的牙科或者眼科保险）。所以我们可以看出来工作是多么重要，有工作就有很多保险，没有自己买就非常贵。国外人之所以怕失业就有这方面的原因。 最后吐糟一点就是这边看急诊的等待时间，很多人也吐糟过，实际上看急诊的话等3到7个小时是很正常的，看专科门诊的等待时间[大概要将近三个月](https://www.fraserinstitute.org/studies/waiting-your-turn-wait-times-for-health-care-in-canada-2017)
 
 ### 免费教育
-的确，这边的中小学教育是免费的，可是大学是收学费的，而且由于都是私立大学，学费非常贵，以多伦多大学为例,学费在[1万加币](http://www.utsc.utoronto.ca/admissions/tuition-fees)，加上住宿费和生活费，一年大概2万加币，大概是一般家庭平均税后年收入的1/3。四年大学就是10万加币（医生和计算机专业可能要更贵一些）。所以从小存大学学费是很正常的，有一个项目叫[RESP](https://www.canada.ca/en/employment-social-development/services/student-financial-aid/education-savings/resp.html)就是为这个而来的，可是能否考上大学是另外一个话题，下面会有涉及。另外就是助学贷款了。在安省，叫[OSAP](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR015046.html)。
+的确，这边的中小学教育是免费的，可是大学是收学费的，而且学费非常贵，以多伦多大学为例,学费在[1万加币](http://www.utsc.utoronto.ca/admissions/tuition-fees)，加上住宿费和生活费，一年大概2万加币，大概是一般家庭平均税后年收入的1/3。四年大学就是10万加币（医生和计算机专业可能要更贵一些）。所以从小存大学学费是很正常的，有一个项目叫[RESP](https://www.canada.ca/en/employment-social-development/services/student-financial-aid/education-savings/resp.html)就是为这个而来的，可是能否考上大学是另外一个话题，下面会有涉及。另外就是助学贷款了。在安省，叫[OSAP](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR015046.html)。
 
 ### 免费养老
 由于加拿大已经是个老龄化国家了，国民平均年龄已经超过40岁。国家养老负担其实是很重的，这也就是为什么要找这么多移民的主要原因 --- 要帮现在的老人先养老。

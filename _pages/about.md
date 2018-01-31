@@ -5,6 +5,12 @@ permalink: /about/
 published: true
 ---
 
+雨恨云愁，江南依旧称佳丽。水村渔市，一缕孤烟细。
+天际征鸿，遥认行如缀。平生事，此时凝睇，谁会凭栏意。
+
+				---- 宋 王禹偁 　点绛唇·感兴
+
+
 见各种有趣的人，做各种有趣的事，不为金钱所累，不为人情所累，能做到者又有几何？
 
 思考各种方案，取舍间能做到恰如其分；做出各种决策，得失间不动于心！ 
@@ -19,20 +25,10 @@ class Me{
 }
 ```
 
-```python
-print("I am a programmer")
-```
-
 ```scala
 object Me {
   def main(args: Array[String]): Unit = {
     println("I am a programmer")
   }
-}
-```
-
-```javascript
-function whoAmI(){
-  alert(“I am a programmer”)
 }
 ```

@@ -1,5 +1,7 @@
 ---
 published: false
+categories: technique
+tags: genealogy react svg pathjs
 ---
 尝试数字化家谱。
 
@@ -38,6 +40,21 @@ published: false
 * 数据目前使用Json格式
 * 由于家谱图往往很多人，所以要可以缩放，而且还不能影响图像质量，所以采用了[svg path](https://www.w3.org/TR/SVG/paths.html)，具体的参考框架就是两个：　[path-js](https://github.com/andreaferretti/paths-js)　和　[svg-pan-zoom](https://github.com/chrvadala/react-svg-pan-zoom).
 * 创建项目使用 [create-react-app](https://github.com/facebook/create-react-app)
+* 发布项目使用 gitpages，具体步骤请参考[这里](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#github-pages)。
 
+
+步骤不是很复杂，下面做个简单的展示：
+![jiapupage1.png]({{site.baseurl}}/images/jiapupage1.png)
+
+如果需要看某个细部，可以使用右上角的手型符号来移动，同时滚动鼠标中键进行缩放。如下图
+![jiapupage2.png]({{site.baseurl}}/images/jiapupage2.png)
+
+好了，话不多说，有兴趣可以自己去尝试下，[http://yuanqingfei.me/familyTree/](http://yuanqingfei.me/familyTree/)
+
+现在还比较粗糙，肯定有不完善支出，有意见可以在这个文章下面留言。谢谢。
 
 # 下一步
+
+* 要基于[d3-hierarchy](https://github.com/d3/d3-hierarchy)做些尝试，把基本的树算法都用上。
+* 写个小工具来生成数据json文件。因为这个数据录入的力气活真不是人干的，我这次眼都花了。。。
+* 基于[scala-js](https://github.com/scala-js/scala-js)来完成前后台统一开发。

@@ -52,8 +52,8 @@ tags: genealogy react svg pathjs
 
 # 下一步
 
-* ~~要基于[d3-hierarchy](https://github.com/d3/d3-hierarchy)做些尝试，把基本的树算法都用上。
-* 写个小工具来生成数据json文件。因为这个数据录入的力气活真不是人干的，我这次眼都花了。。。~~
+* ~~要基于[d3-hierarchy](https://github.com/d3/d3-hierarchy)做些尝试，把基本的树算法都用上。~~
+* ~~写个小工具来生成数据json文件。因为这个数据录入的力气活真不是人干的，我这次眼都花了。。。~~
 * 基于[scala-js](https://github.com/scala-js/scala-js)来完成前后台统一开发。
 
 # 20180220更新
@@ -86,4 +86,3 @@ id|name|parent|description
 * 用d3-hierarchy来生成树（[tidy tree](https://github.com/d3/d3-hierarchy/blob/master/src/tree.js)）,通过对比可以看出他们的区别. pathJs算法更有效利用空间，但是d3Hierarchy是更清楚些。相同点是每一代都在同一竖线上，很好分辨，下一步打算在此基础上加上班辈和世代。
 ![pathjs.png]({{site.baseurl}}/images/pathjs.png)
 ![tidyTree.png]({{site.baseurl}}/images/tidyTree.png)
-

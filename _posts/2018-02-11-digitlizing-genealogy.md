@@ -52,8 +52,8 @@ tags: genealogy react svg pathjs
 
 # 下一步
 
-* 要基于[d3-hierarchy](https://github.com/d3/d3-hierarchy)做些尝试，把基本的树算法都用上。
-* 写个小工具来生成数据json文件。因为这个数据录入的力气活真不是人干的，我这次眼都花了。。。
+* ~~要基于[d3-hierarchy](https://github.com/d3/d3-hierarchy)做些尝试，把基本的树算法都用上。
+* 写个小工具来生成数据json文件。因为这个数据录入的力气活真不是人干的，我这次眼都花了。。。~~
 * 基于[scala-js](https://github.com/scala-js/scala-js)来完成前后台统一开发。
 
 # 20180220更新

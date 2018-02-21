@@ -44,9 +44,6 @@ tags: genealogy react svg pathjs
 
 
 步骤不是很复杂，下面做个简单的展示：
-![jiapupage1.png]({{site.baseurl}}/images/jiapupage1.png)
-
-如果需要看某个细部，可以使用右上角的手型符号来移动，同时滚动鼠标中键进行缩放。如下图
 ![jiapupage2.png]({{site.baseurl}}/images/jiapupage2.png)
 
 好了，话不多说，有兴趣可以自己去尝试下，[http://yuanqingfei.me/familyTree/](http://yuanqingfei.me/familyTree/)
@@ -61,7 +58,7 @@ tags: genealogy react svg pathjs
 
 # 20180220更新
 
-* 使用d3-hierarchy中的工具来解析dsv,从而自动生成树。也就是把如下的csv数据自动构造成能满足树形图需要的json.
+* 使用d3-hierarchy中的工具[stratify](https://github.com/d3/d3-hierarchy#stratify)来解析dsv,从而自动生成树。也就是把如下的csv数据自动构造成能满足树形图需要的json.
 ```csv
 id|name|parent|description
 00001|清||全,仲七
@@ -86,3 +83,7 @@ id|name|parent|description
 
     });
 ```
+* 用d3-hierarchy来生成树（[tidy tree](https://github.com/d3/d3-hierarchy/blob/master/src/tree.js)）,通过对比可以看出他们的区别. pathJs算法更有效利用空间，但是d3Hierarchy是更清楚些。相同点是每一代都在同一竖线上，很好分辨，下一步打算在此基础上加上班辈和世代。
+![pathjs.png]({{site.baseurl}}/images/pathjs.png)
+![tidyTree.png]({{site.baseurl}}/images/tidyTree.png)
+

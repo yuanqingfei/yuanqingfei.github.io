@@ -58,3 +58,31 @@ tags: genealogy react svg pathjs
 * 要基于[d3-hierarchy](https://github.com/d3/d3-hierarchy)做些尝试，把基本的树算法都用上。
 * 写个小工具来生成数据json文件。因为这个数据录入的力气活真不是人干的，我这次眼都花了。。。
 * 基于[scala-js](https://github.com/scala-js/scala-js)来完成前后台统一开发。
+
+# 20180220更新
+
+* 使用d3-hierarchy中的工具来解析dsv,从而自动生成树。也就是把如下的csv数据自动构造成能满足树形图需要的json.
+```csv
+id|name|parent|description
+00001|清||全,仲七
+00002|仲|00001|
+00003|玘|00002|
+00004|洪|00003|配辛,吴氏
+00005|河|00003|
+```
+
+```javascript
+    dsv("|", yuanCsv, function (d) {
+      return {
+        id: d.id,
+        name: d.name,
+        parent: d.parent,
+        description: d.description
+      };
+    }).then(function (data) {
+      var myRoot = stratify()
+        .id(function (d) { return d.id; })
+        .parentId(function (d) { return d.parent; })(data);
+
+    });
+```

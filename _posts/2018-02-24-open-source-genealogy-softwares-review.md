@@ -76,4 +76,4 @@ tags: genealogy python php graphviz
 
 首先是中国的家谱也要把女性的的地位提上来，也加入到家谱上来，毕竟从科学的观点来看，父系传承的是Ｙ染色体，而母系传承的是线粒体，都是有继承根据的。从遗传学上来说，儿子的智商被母亲影响得更大呢。
 
-Gramps是个已经很成熟的平台，只是它现在是个单机版。但是它所依赖的[Graphviz](http://www.graphviz.org/)技术已经被[js化](https://github.com/mdaines/viz.js)了，这为把它搬上网络打下了基础。以后打算尝试下。
+Gramps是个已经很成熟的平台，只是它现在是个单机版。但是它所依赖的[Graphviz](http://www.graphviz.org/)技术已经被[js化](https://github.com/mdaines/viz.js)了，这为把它搬上网络打下了基础。已经有两个d3项目是基于它，一个是[graph-viz-d3-js](https://github.com/mstefaniuk/graph-viz-d3-js),另一个是[d3-graphviz](https://github.com/magjac/d3-graphviz). 以后打算尝试使用DOT语言来画svg图。[graphql-voyager](https://github.com/APIs-guru/graphql-voyager)可供参考。

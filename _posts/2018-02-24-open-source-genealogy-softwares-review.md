@@ -61,7 +61,9 @@ tags: genealogy python php graphviz
 
 ### Geneotree
 
-[Geneotree](https://sourceforge.net/projects/geneotree/)也是一个PHP写的网络版家谱软件，还在演化中。
+[Geneotree](http://www.geneotree.com/)也是一个PHP写的网络版家谱软件，还在演化中。
+
+-----
 
 其他更多开源或者收费家谱软件，请看[这里](https://en.wikipedia.org/wiki/Genealogy_software)
 
@@ -70,4 +72,4 @@ tags: genealogy python php graphviz
 
 首先是中国的家谱也要把女性的的地位提上来，也加入到家谱上来，毕竟从科学的观点来看，父系传承的是Ｙ染色体，而母系传承的是线粒体，都是有继承根据的。从遗传学上来说，儿子的智商被母亲影响得更大呢。
 
-Gramps是个已经很成熟的平台，只是它现在是个单机版。但是它所依赖的[Graphviz](http://www.graphviz.org/)技术已经被[js化](https://github.com/mdaines/viz.js)了，这为把它搬上网络打下了基础。以后打算尝试下。另外就是[GraphQL](http://graphql.org/),因为家谱不仅仅是显示，要很方便的查询，所以GraphQL是个大趋势，而且它也已经有[js实现](https://github.com/graphql/graphql-js)。另外[GraphQL Vogager](https://apis.guru/graphql-voyager/)提供了不错的例子。
+Gramps是个已经很成熟的平台，只是它现在是个单机版。但是它所依赖的[Graphviz](http://www.graphviz.org/)技术已经被[js化](https://github.com/mdaines/viz.js)了，这为把它搬上网络打下了基础。以后打算尝试下。

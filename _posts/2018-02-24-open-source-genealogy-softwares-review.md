@@ -12,7 +12,7 @@ tags: genealogy python php graphviz
 
 这个数据格式是同时支持父系和母系的，女儿和儿子一样也是都列入家谱的。下面例子中可以看出这一点。这个家谱数据是按照西方的家庭观点来看待的。
 
-```txt
+```
 0 HEAD
 1 SOUR PAF
 2 NAME Personal Ancestral File

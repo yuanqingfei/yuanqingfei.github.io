@@ -59,6 +59,7 @@ tags: genealogy react svg pathjs
 # 20180220更新
 
 * 使用d3-hierarchy中的工具[stratify](https://github.com/d3/d3-hierarchy#stratify)来解析dsv,从而自动生成树。也就是把如下的csv数据自动构造成能满足树形图需要的json.
+
 ```csv
 id|name|parent|description
 00001|清||全,仲七

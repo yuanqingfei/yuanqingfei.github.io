@@ -1,5 +1,7 @@
 ---
 published: false
+categories: arts
+tags: genealogy python php graphviz
 ---
 自己瞎捣鼓了半天，现在把前人的工作大体看看。
 
@@ -51,15 +53,15 @@ published: false
 
 ![gramp_chart.png]({{site.baseurl}}/images/gramp_chart.png)
 
-
 其他具体的请参考[它的手册](https://www.gramps-project.org/wiki/index.php?title=User_manual)。
 
 ### Webtrees
 
-
+[Webtrees](https://github.com/fisharebest/webtrees)是一个使用PHP写的网络版家谱软件，也已经比较成熟。
 
 ### Geneotree
 
+[Geneotree](https://sourceforge.net/projects/geneotree/)也是一个PHP写的网络版家谱软件，还在演化中。
 
 其他更多开源或者收费家谱软件，请看[这里](https://en.wikipedia.org/wiki/Genealogy_software)
 

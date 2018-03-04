@@ -101,4 +101,4 @@ id|name|parent|description
 
 * 具体的画图形式需要遵循家族图的[格式](https://en.wikipedia.org/wiki/Genogram)。
 
-* 还是要借鉴[Gramps](https://en.wikipedia.org/wiki/Gramps)。
+* 还是要借鉴[Gramps](https://github.com/gramps-project/gramps)。

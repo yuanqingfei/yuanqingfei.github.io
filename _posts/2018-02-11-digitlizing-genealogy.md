@@ -90,7 +90,7 @@ id|name|parent|description
 
 # 20180303更新
 
-* 使用[d3-graphviz](https://github.com/magjac/d3-graphviz)来渲染这棵家族树，算法果然又不一样，可以参考下面的结果。
+* 使用[d3-graphviz](https://github.com/magjac/d3-graphviz)来渲染这棵家族树，算法果然又不一样，可以参考下面的结果。发布在[http://yuanqingfei.me/familyTree-dot/](http://yuanqingfei.me/familyTree-dot)
 ![dotFmailiyTree.png]({{site.baseurl}}/images/dotFmailiyTree.png)
 
 * 在把女性计入家谱的情况下，由于会出现表亲结婚的情况下，所以就会变成DAG(有向无环图)，可参考[下面描述](https://en.wikipedia.org/wiki/Directed_acyclic_graph#Genealogy_and_version_history):

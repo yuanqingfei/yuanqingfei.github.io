@@ -87,3 +87,18 @@ id|name|parent|description
 * 用d3-hierarchy来生成树（[tidy tree](https://github.com/d3/d3-hierarchy/blob/master/src/tree.js)）,通过对比可以看出他们的区别. pathJs算法更有效利用空间，但是d3Hierarchy是更清楚些。相同点是每一代都在同一竖线上，很好分辨，下一步打算在此基础上加上班辈和世代。
 ![pathjs.png]({{site.baseurl}}/images/pathjs.png)
 ![tidyTree.png]({{site.baseurl}}/images/tidyTree.png)
+
+# 20180303更新
+
+* 使用[d3-graphviz](https://github.com/magjac/d3-graphviz)来渲染这棵家族树，算法果然又不一样，可以参考下面的结果。
+![dotFmailiyTree.png]({{site.baseurl}}/images/dotFmailiyTree.png)
+
+* 在把女性计入家谱的情况下，由于会出现表亲结婚的情况下，所以就会变成DAG(有向无环图)，可参考[下面描述](https://en.wikipedia.org/wiki/Directed_acyclic_graph#Genealogy_and_version_history):
+
+>> Family trees may be seen as directed acyclic graphs, with a vertex for each family member and an edge for each parent-child relationship.[44] Despite the name, these graphs are not necessarily trees because of the possibility of marriages between relatives (so a child has a common ancestor on both the mother's and father's side) causing pedigree collapse.[45] The graphs of matrilineal descent ("mother" relationships between women) and patrilineal descent ("father" relationships between men) are trees within this graph. Because no one can become their own ancestor, family trees are acyclic.
+
+* dot语言描述DAG可以参考[这里](https://stackoverflow.com/questions/2271704/family-tree-layout-with-dot-graphviz)
+
+* 具体的画图形式需要遵循家族图的[格式](https://en.wikipedia.org/wiki/Genogram)。
+
+* 还是要借鉴[Gramps](https://en.wikipedia.org/wiki/Gramps)。

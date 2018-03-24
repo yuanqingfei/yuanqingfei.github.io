@@ -1,5 +1,7 @@
 ---
 published: false
+categories: arts
+tags: 'sparrow, pets, duck'
 ---
 童年的宠物
 

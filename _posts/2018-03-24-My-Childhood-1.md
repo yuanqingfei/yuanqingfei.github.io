@@ -1,5 +1,7 @@
 ---
 published: false
+categories: arts
+tags: hometown bridge love river
 ---
 
 忽然思乡情切，聊聊村西边的那条小河。

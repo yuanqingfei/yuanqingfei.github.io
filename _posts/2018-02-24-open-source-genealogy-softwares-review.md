@@ -11,7 +11,7 @@ tags: genealogy python php graphviz
 
 > "GEDCOM is not perfect, and not perfectly supported either, but it is the only widely supported standard."
 
-主流的家谱软件都是支持统一的数据格式[GEDCOM](https://en.wikipedia.org/wiki/GEDCOM),虽然它诞生于1984年，但是它已经是家谱软件的事实标准，最新版是发布于1996年的5.5版(已经20多年没有更新了)，大部分现在的家谱软件都是支持发布于1999年的[5.5.1草案](http://wiki-en.genealogy.net/Gedcom_5.5.1)。因为草案里引入对Unicode的支持,也就是多语言的支持。这篇文章对其做了非常好的[介绍](https://www.tamurajones.net/AGentleIntroductionToGEDCOM.xhtml)。
+主流的家谱软件都是支持统一的数据格式[GEDCOM](https://en.wikipedia.org/wiki/GEDCOM),虽然它诞生于1984年，但是它已经是家谱软件的事实标准，最新版是发布于1996年的5.5版(已经20多年没有更新了)，大部分现在的家谱软件都是支持发布于1999年的[5.5.1草案](http://wiki-en.genealogy.net/Gedcom_5.5.1)。这个草案直到现在（2018年）都是事实上的标准。 规范全文在[这里](https://www.tamurajones.net/GEDCOM/GEDCOM551.pdf)。因为草案里引入对Unicode的支持,也就是多语言的支持。这篇文章对其做了非常好的[介绍](https://www.tamurajones.net/AGentleIntroductionToGEDCOM.xhtml)。
 
 这个数据格式是同时支持父系和母系的，女儿和儿子一样也是都列入家谱的。下面例子中可以看出这一点。这个家谱数据是按照西方的家庭观点来看待的。
 

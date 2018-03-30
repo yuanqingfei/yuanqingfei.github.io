@@ -102,3 +102,11 @@ id|name|parent|description
 * 具体的画图形式需要遵循家族图的[格式](https://en.wikipedia.org/wiki/Genogram)。
 
 * 还是要借鉴[Gramps](https://github.com/gramps-project/gramps)。
+
+# 20180330更新
+
+* 网上有人用d3做了一个工具，很好用： [https://learnforeverlearn.com/ancestors/](https://learnforeverlearn.com/ancestors/)， 我通过使用Grapms创建家族树，然后导出为ged文件，很方便的就可以导入到上述网站，可以看到时间轴。
+
+![familyTreeTimeline.png]({{site.baseurl}}/images/familyTreeTimeline.png)
+
+* 下一步还是打算先用Scala实现一个后台ged解析器，然后再考虑前台的事情。

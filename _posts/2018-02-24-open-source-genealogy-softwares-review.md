@@ -50,6 +50,47 @@ tags: genealogy python php graphviz
 0 TRLR
 ```
 
+稍微看了下最近的[GEDCOM X](https://github.com/FamilySearch/gedcomx)，感觉还行，只是开发太慢了。
+
+```xml
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gedcomx xmlns="http://gedcomx.org/v1/" xmlns:ns2="http://familysearch.org/v1/" xml:lang="en">
+    <person id="I0000">
+        <gender type="http://gedcomx.org/Male"/>
+        <name>
+            <preferred>true</preferred>
+            <nameForm>
+                <fullText>清 袁</fullText>
+                <part type="http://gedcomx.org/Prefix" value="始迁祖"/>
+                <part type="http://gedcomx.org/Given" value="清"/>
+                <part type="http://gedcomx.org/Surname" value="袁"/>
+            </nameForm>
+        </name>
+        <name type="http://gedcomx.org/Nickname">
+            <nameForm>
+                <fullText>仲七</fullText>
+            </nameForm>
+        </name>
+        <fact type="http://gedcomx.org/Birth">
+            <date>
+                <original>1360</original>
+            </date>
+            <place>
+                <original>海州陇西都新二里_连云港</original>
+            </place>
+        </fact>
+        <fact type="http://gedcomx.org/Death">
+            <date>
+                <original>1410</original>
+            </date>
+            <place>
+                <original>山东省临沂市临沭县朱仓乡</original>
+            </place>
+        </fact>
+    </person>
+```
+
+
 ## 几个开源家谱软件
 
 ### Gramps

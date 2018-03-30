@@ -8,7 +8,7 @@ tags: genealogy python php graphviz
 基本上，自从上个世纪8,90年代开始就有人开始开发家谱软件，只不过当时都是单机版，到网络时代兴起，2000年以后开始有网络版的，大部分都是PHP和MYSQL。自从2010年后，随着新的前端技术发展，现在更多趋势是用js框架把上个世纪单机版的富客户端搬到网络上。
 
 ## 格式
-主流的家谱软件都是支持统一的数据格式[GEDCOM](https://en.wikipedia.org/wiki/GEDCOM),虽然它诞生于1984年，但是它已经是家谱软件的事实标准，最新版是发布于1996年的5.5版(已经20多年没有更新了)，大部分现在的家谱软件都是支持发布于1999年的[5.5.1草案](http://wiki-en.genealogy.net/Gedcom_5.5.1)。因为草案里引入对Unicode的支持,也就是多语言的支持。
+主流的家谱软件都是支持统一的数据格式[GEDCOM](https://en.wikipedia.org/wiki/GEDCOM),虽然它诞生于1984年，但是它已经是家谱软件的事实标准，最新版是发布于1996年的5.5版(已经20多年没有更新了)，大部分现在的家谱软件都是支持发布于1999年的[5.5.1草案](http://wiki-en.genealogy.net/Gedcom_5.5.1)。因为草案里引入对Unicode的支持,也就是多语言的支持。这篇文章对其做了非常好的[介绍](https://www.tamurajones.net/AGentleIntroductionToGEDCOM.xhtml)。
 
 这个数据格式是同时支持父系和母系的，女儿和儿子一样也是都列入家谱的。下面例子中可以看出这一点。这个家谱数据是按照西方的家庭观点来看待的。
 
@@ -70,6 +70,20 @@ tags: genealogy python php graphviz
 -----
 
 其他更多开源或者收费家谱软件，请看[这里](https://en.wikipedia.org/wiki/Genealogy_software)
+
+
+## GEDDOM 软件列表
+
+github上面的开源列表在这里[Gedcom](https://github.com/todrobbins/awesome-gedcom)
+
+### Gedcom
+
+[https://github.com/FamilySearch/Gedcom](https://github.com/FamilySearch/Gedcom)
+
+### gedcom4j
+
+[https://github.com/frizbog/gedcom4j](https://github.com/frizbog/gedcom4j)
+
 
 
 ## 一点想法

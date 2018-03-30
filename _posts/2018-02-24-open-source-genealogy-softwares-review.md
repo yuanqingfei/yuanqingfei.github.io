@@ -9,6 +9,8 @@ tags: genealogy python php graphviz
 
 ## 格式
 
+有很多格式，这篇文章做了最好的[概述](https://www.tamurajones.net/GEDCOMAlternatives.xhtml)。但是我们这里只强调GEDCOM。
+
 > "GEDCOM is not perfect, and not perfectly supported either, but it is the only widely supported standard."
 
 主流的家谱软件都是支持统一的数据格式[GEDCOM](https://en.wikipedia.org/wiki/GEDCOM),虽然它诞生于1984年，但是它已经是家谱软件的事实标准，最新版是发布于1996年的5.5版(已经20多年没有更新了)，大部分现在的家谱软件都是支持发布于1999年的[5.5.1草案](http://wiki-en.genealogy.net/Gedcom_5.5.1)。这个草案直到现在（2018年）都是事实上的标准。 规范全文在[这里](https://www.tamurajones.net/GEDCOM/GEDCOM551.pdf)。因为草案里引入对Unicode的支持,也就是多语言的支持。这篇文章对其做了非常好的[介绍](https://www.tamurajones.net/AGentleIntroductionToGEDCOM.xhtml)。

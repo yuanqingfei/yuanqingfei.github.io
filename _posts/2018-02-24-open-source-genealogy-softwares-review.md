@@ -19,35 +19,38 @@ tags: genealogy python php graphviz
 
 ```
 0 HEAD
-1 SOUR PAF
-2 NAME Personal Ancestral File
-2 VERS 5.0
-1 DATE 30 NOV 2000
+1 SOUR Gramps
+2 VERS GrampsAIO64-5.0.0-beta1-3
+2 NAME Gramps
+1 DATE 30 MAR 2018
+2 TIME 12:48:03
+1 SUBM @SUBM@
+1 FILE D:\Doc\familiyTree_Gramps\firstDirect.ged
+1 COPR Copyright (c) 2018 .
 1 GEDC
-2 VERS 5.5
+2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
-1 CHAR ANSEL
-1 SUBM @U1@
-0 @I1@ INDI
-1 NAME John /Smith/
+1 CHAR UTF-8
+1 LANG English
+0 @SUBM@ SUBM
+1 NAME
+1 ADDR
+0 @I0000@ INDI
+1 NAME 清 /袁/
+2 GIVN 清
+2 SURN 袁
+2 NPFX 始迁祖
+2 NICK 仲七
 1 SEX M
-1 FAMS @F1@
-0 @I2@ INDI
-1 NAME Elizabeth /Stansfield/
-1 SEX F
-1 FAMS @F1@
-0 @I3@ INDI
-1 NAME James /Smith/
-1 SEX M
-1 FAMC @F1@
-0 @F1@ FAM
-1 HUSB @I1@
-1 WIFE @I2@
-1 MARR
-1 CHIL @I3@
-0 @U1@ SUBM
-1 NAME Submitter
-0 TRLR
+1 BIRT
+2 DATE 1360
+2 PLAC 海州陇西都新二里_连云港
+3 MAP
+4 LATI N34.596698
+4 LONG E119.222953
+1 DEAT
+2 DATE 1410
+2 PLAC 山东省临沂市临沭县朱仓乡
 ```
 
 稍微看了下最近的[GEDCOM X](https://github.com/FamilySearch/gedcomx)，感觉还行，只是开发太慢了。

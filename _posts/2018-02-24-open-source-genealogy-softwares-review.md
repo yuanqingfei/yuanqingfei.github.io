@@ -143,6 +143,6 @@ github上面的开源列表在这里[Gedcom](https://github.com/todrobbins/aweso
 
 * Gramps是个已经很成熟的平台，只是它现在是个单机版。但是它所依赖的[Graphviz](http://www.graphviz.org/)技术已经被[js化](https://github.com/mdaines/viz.js)了，这为把它搬上网络打下了基础。已经有两个d3项目是基于它，一个是[graph-viz-d3-js](https://github.com/mstefaniuk/graph-viz-d3-js),另一个是[d3-graphviz](https://github.com/magjac/d3-graphviz). 以后打算尝试使用DOT语言来画svg图。DOT语言的好处就是可以用程序的方式把树形结构完全用DOT语言自动生成，这样就可以达到和d3-herarchy的stratify同样的效果了。
 
-* 初步实验表明[d3-graphviz](https://github.com/magjac/d3-graphviz)仍然是模仿Graphviz的两层结构，结果在React编程时，viz作为web worker不能导入，暂时不能用React统一编程模型。但是可以作为普通js编程使用。
+* 初步实验表明[d3-graphviz](https://github.com/magjac/d3-graphviz)仍然是模仿Graphviz的两层结构，结果在React编程时，~~viz作为web worker不能导入，暂时不能用React统一编程模型。但是可以作为普通js编程使用。~~ 【20180331更新】已经证明可以，根据stackflow别人的帖子，其实是可以的。[https://github.com/yuanqingfei/familyTree/blob/master/src/components/dot/dotTree.js](https://github.com/yuanqingfei/familyTree/blob/master/src/components/dot/dotTree.js)
 
 * [dagre](https://github.com/dagrejs/dagre)配合[dagre-d3](https://github.com/dagrejs/dagre-d3)也可以作为一个尝试，它也是纯client的layout框架，也支持DOT语言。

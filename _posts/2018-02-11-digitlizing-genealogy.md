@@ -114,6 +114,6 @@ id|name|parent|description
 
 # 20180408更新
 
-* 之前做的dot版本是基于[d3-graphviz](https://github.com/magjac/d3-graphviz)，可是由于它对于react的支持不够好，一直没能放到一起去。最近给[d3-graphviz](https://github.com/magjac/d3-graphviz)提了个[改进](https://github.com/magjac/d3-graphviz/issues/45)，原作者修改好了。这样就可以把dot版也整合在一起去了。故删掉[http://yuanqingfei.me/familyTree-dot/](http://yuanqingfei.me/familyTree-dot)
+* 之前做的dot版本是基于[d3-graphviz](https://github.com/magjac/d3-graphviz)，可是由于它对于react的支持不够好，一直没能放到一起去。最近给[d3-graphviz](https://github.com/magjac/d3-graphviz)提了个[改进](https://github.com/magjac/d3-graphviz/issues/45)，原作者修改好了。这样就可以把dot版也整合在一起去了。故删掉 http://yuanqingfei.me/familyTree-dot/
 
 * 最近一直在尝试用scalajs来搞，可是写js的facade，比如d3-graphviz的facade，一直不得门而入。 故先放下吧。

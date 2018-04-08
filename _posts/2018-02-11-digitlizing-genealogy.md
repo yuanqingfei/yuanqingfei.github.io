@@ -202,5 +202,51 @@ color = blue ]
 在[http://viz-js.com/](http://viz-js.com/) 渲染的结果确实不怎么美观，但是能满足基本需要。
 ![testComplexFamilyDot.png]({{site.baseurl}}/images/testComplexFamilyDot.png)
 
-* 第二种办法
+* 根据stackoverfow的[方案](https://stackoverflow.com/questions/2271704/family-tree-layout-with-dot-graphviz)
+```
+digraph G {
+  edge [dir=none];
+  node [shape=box];
+
+  "Herb"      [shape=box, regular=0, color="blue", style="filled" fillcolor="lightblue"] ;
+  "Homer"     [shape=box, regular=0, color="blue", style="bold, filled" fillcolor="lightblue"] ;
+  "Marge"     [shape=oval, regular=0, color="red", style="filled" fillcolor="pink"] ;
+  "Jackeline" [shape=oval, regular=0, color="red", style="filled" fillcolor="pink"] ;
+  "Abraham"   [shape=box, regular=0, color="blue", style="filled" fillcolor="lightblue"] ;
+  "Mona"      [shape=oval, regular=0, color="red", style="filled" fillcolor="pink"] ;
+  "Bart"      [shape=box, regular=0, color="blue", style="filled" fillcolor="lightblue"] ;
+  "Maggie"    [shape=oval, regular=0, color="red", style="filled" fillcolor="pink"] ;
+
+  a1 [shape=diamond,label="",height=0.25,width=0.25];
+  a2 [shape=diamond,label="",height=0.25,width=0.25];
+  {rank=same; Abraham -> a1 -> Mona; Abraham -> a2 -> Jackeline};
+  
+  b1 [shape = point, width=0];
+  b2 [shape = point, width=0];
+  b3 [shape = point, width=0];
+  {rank=same; b1 -> b2 -> b3};
+  
+  a1 -> b2
+  b1 -> Herb
+  b3 -> Homer
+  a2 -> Marge
+  {rank=same; Herb; Homer; Marge};
+  
+  // new genration
+  a3 [shape=diamond,label="",height=0.25,width=0.25];
+  {rank=same; Herb -> a3 -> Marge}
+  
+  b4 [shape = point, width=0];
+  b5 [shape = point, width=0];
+  b6 [shape = point, width=0];
+  {rank=same; b4 -> b5 -> b6};
+  
+  a3->b5
+  b4-> Maggie
+  b6->Bart
+}
+```
+![testComplexFamilies2.png]({{site.baseurl}}/images/testComplexFamilies2.png)
+
+需要找个更好的方案。。。
 

@@ -92,7 +92,7 @@ id|name|parent|description
 
 * 使用[d3-graphviz](https://github.com/magjac/d3-graphviz)来渲染这棵家族树，算法果然又不一样，可以参考下面的结果。
 
-![dotFmailiyTree.png]({{site.baseurl}}/images/dotFmailiyTree.png)
+![dotFmailiyTree.png]({te.baseurl}}/images/dotFmailiyTree.png)
 
 * 在把女性计入家谱的情况下，由于会出现表亲结婚的情况下，所以就会变成DAG(有向无环图)，可参考[下面描述](https://en.wikipedia.org/wiki/Directed_acyclic_graph#Genealogy_and_version_history):
 
@@ -116,4 +116,91 @@ id|name|parent|description
 
 * 之前做的dot版本是基于[d3-graphviz](https://github.com/magjac/d3-graphviz)，可是由于它对于react的支持不够好，一直没能放到一起去。最近给[d3-graphviz](https://github.com/magjac/d3-graphviz)提了个[改进](https://github.com/magjac/d3-graphviz/issues/45)，原作者修改好了。这样就可以把dot版也整合在一起去了。故删掉 http://yuanqingfei.me/familyTree-dot/
 
-* 最近一直在尝试用scalajs来搞，可是写js的facade，比如d3-graphviz的facade，一直不得门而入。 故先放下吧。
+* 设想一个比较极端的例子，一夫二妻，同夫异母兄妹结婚。这样的DAG用dot应该如何描述。
+根据[ged2do](https://github.com/vmiklos/ged2dot)t的启发，大概是这样
+
+```
+digraph {
+splines = ortho
+
+subgraph Depth0 {
+rank = same
+
+PH0 [ shape = box,
+color = pink ]
+
+I0000 [ shape = box,
+color = blue ]
+
+
+PH1 [ shape = box,
+color = pink ]
+
+
+I0000AndPH0 [ shape = point ] 
+I0000 -> I0000AndPH0 [ arrowhead = none ]
+I0000AndPH0 -> PH0 [ arrowhead = none ]
+
+
+I0000AndPH1 [ shape = point ] 
+I0000 -> I0000AndPH1 [ arrowhead = none ]
+I0000AndPH1 -> PH1 [ arrowhead = none ]
+}
+
+
+I0000AndPH0 -> I0001Connect [ arrowhead = none ]
+I0001Connect -> I0001 [ arrowhead = none ]
+//  I0001Connect -> I0004 [ arrowhead = none ]
+
+
+I0000AndPH1 -> I0002Connect [ arrowhead = none ]
+I0002Connect -> I0002 [ arrowhead = none ]
+I0002Connect -> I0005 [ arrowhead = none ]
+
+subgraph Depth0Connects {
+rank = same
+
+I0002Connect [ shape = point, width=0 ] 
+I0001Connect [ shape = point, width = 0 ] 
+}
+
+
+
+subgraph Depth_1 {
+rank = same
+I0001 [ shape = box,
+color = blue ]
+
+I0002 [ shape = box,
+color = blue ]
+
+I0005 [ shape = box,
+color = pink ]
+
+I0001AndI0005 [shape=point]
+I0001 ->I0001AndI0005 [arrowhead=none]
+I0001AndI0005->I0005 [arrowhead=none]
+
+}
+
+subgraph Depth_1Connects {
+rank = same
+
+I0001AndI0005Connect [shape=point, width=0]
+}
+
+I0001AndI0005 -> I0001AndI0005Connect [ arrowhead = none ]
+I0001AndI0005Connect -> I0006 [ arrowhead = none ]
+
+subgraph Depth_2 {
+rank = same
+I0006 [ shape = box,
+color = blue ]
+}
+}
+```
+在[http://viz-js.com/](http://viz-js.com/) 渲染的结果确实不怎么美观，但是能满足基本需要。
+![testComplexFamilyDot.png]({{site.baseurl}}/images/testComplexFamilyDot.png)
+
+* 第二种办法
+

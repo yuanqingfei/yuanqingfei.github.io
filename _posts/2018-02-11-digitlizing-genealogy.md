@@ -90,7 +90,8 @@ id|name|parent|description
 
 # 20180303更新
 
-* 使用[d3-graphviz](https://github.com/magjac/d3-graphviz)来渲染这棵家族树，算法果然又不一样，可以参考下面的结果。发布在[http://yuanqingfei.me/familyTree-dot/](http://yuanqingfei.me/familyTree-dot)
+* 使用[d3-graphviz](https://github.com/magjac/d3-graphviz)来渲染这棵家族树，算法果然又不一样，可以参考下面的结果。
+
 ![dotFmailiyTree.png]({{site.baseurl}}/images/dotFmailiyTree.png)
 
 * 在把女性计入家谱的情况下，由于会出现表亲结婚的情况下，所以就会变成DAG(有向无环图)，可参考[下面描述](https://en.wikipedia.org/wiki/Directed_acyclic_graph#Genealogy_and_version_history):
@@ -110,3 +111,9 @@ id|name|parent|description
 ![familyTreeTimeline.png]({{site.baseurl}}/images/familyTreeTimeline.png)
 
 * 下一步还是打算先用Scala实现一个后台ged解析器，然后再考虑前台的事情。
+
+# 20180408更新
+
+* 之前做的dot版本是基于[d3-graphviz](https://github.com/magjac/d3-graphviz)，可是由于它对于react的支持不够好，一直没能放到一起去。最近给[d3-graphviz](https://github.com/magjac/d3-graphviz)提了个[改进](https://github.com/magjac/d3-graphviz/issues/45)，原作者修改好了。这样就可以把dot版也整合在一起去了。故删掉[http://yuanqingfei.me/familyTree-dot/](http://yuanqingfei.me/familyTree-dot)
+
+* 最近一直在尝试用scalajs来搞，可是写js的facade，比如d3-graphviz的facade，一直不得门而入。 故先放下吧。

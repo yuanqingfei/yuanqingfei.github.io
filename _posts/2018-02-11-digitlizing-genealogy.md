@@ -121,82 +121,59 @@ id|name|parent|description
 
 ```
 digraph {
-splines = ortho
+    splines = ortho;
+    node [shape = box, color=blue];
+    edge [dir = none];
 
-subgraph Depth0 {
-rank = same
+    subgraph Depth0 {
+        rank = same
+        
+        PH0 [ color = pink ]
+        PH1 [ color = pink ]
+        
+        I0000AndPH0 [ shape = point ] 
+        I0000 -> I0000AndPH0 -> PH0  
+        
+        I0000AndPH1 [ shape = point ] 
+        I0000 -> I0000AndPH1 -> PH1 
+    }
 
-PH0 [ shape = box,
-color = pink ]
+    subgraph Depth0Connects {
+        rank = same
+        
+        I0002Connect [ shape = point, width = 0 ] 
+        I0001Connect [ shape = point, width = 0 ] 
+    }
 
-I0000 [ shape = box,
-color = blue ]
+    I0000AndPH0 -> I0001Connect -> I0001 
+    I0000AndPH1 -> I0002Connect 
+    
+    I0002Connect -> I0002 
+    I0002Connect -> I0005 
 
+    subgraph Depth_1 {
+        rank = same
+        
+        I0001
+        I0002
+        I0005 [ color = pink ]
+        
+        I0001AndI0005 [shape=point]
+        I0001 -> I0001AndI0005-> I0005
+    }
 
-PH1 [ shape = box,
-color = pink ]
-
-
-I0000AndPH0 [ shape = point ] 
-I0000 -> I0000AndPH0 [ arrowhead = none ]
-I0000AndPH0 -> PH0 [ arrowhead = none ]
-
-
-I0000AndPH1 [ shape = point ] 
-I0000 -> I0000AndPH1 [ arrowhead = none ]
-I0000AndPH1 -> PH1 [ arrowhead = none ]
-}
-
-
-I0000AndPH0 -> I0001Connect [ arrowhead = none ]
-I0001Connect -> I0001 [ arrowhead = none ]
-//  I0001Connect -> I0004 [ arrowhead = none ]
-
-
-I0000AndPH1 -> I0002Connect [ arrowhead = none ]
-I0002Connect -> I0002 [ arrowhead = none ]
-I0002Connect -> I0005 [ arrowhead = none ]
-
-subgraph Depth0Connects {
-rank = same
-
-I0002Connect [ shape = point, width=0 ] 
-I0001Connect [ shape = point, width = 0 ] 
-}
-
-
-
-subgraph Depth_1 {
-rank = same
-I0001 [ shape = box,
-color = blue ]
-
-I0002 [ shape = box,
-color = blue ]
-
-I0005 [ shape = box,
-color = pink ]
-
-I0001AndI0005 [shape=point]
-I0001 ->I0001AndI0005 [arrowhead=none]
-I0001AndI0005->I0005 [arrowhead=none]
-
-}
-
-subgraph Depth_1Connects {
-rank = same
-
-I0001AndI0005Connect [shape=point, width=0]
-}
-
-I0001AndI0005 -> I0001AndI0005Connect [ arrowhead = none ]
-I0001AndI0005Connect -> I0006 [ arrowhead = none ]
-
-subgraph Depth_2 {
-rank = same
-I0006 [ shape = box,
-color = blue ]
-}
+    subgraph Depth_1Connects {
+        rank = same
+        
+        I0001AndI0005Connect [shape=point, width=0]
+    }
+    
+    I0001AndI0005 -> I0001AndI0005Connect -> I0006
+    
+    subgraph Depth_2 {
+        rank = same
+        I0006
+    }
 }
 ```
 在[http://viz-js.com/](http://viz-js.com/) 渲染的结果确实不怎么美观，但是能满足基本需要。

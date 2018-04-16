@@ -225,5 +225,9 @@ digraph G {
 ```
 ![testComplexFamilies2.png]({{site.baseurl}}/images/testComplexFamilies2.png)
 
-需要找个更好的方案。。。
+# 20180415更新
+
+初步采用第一种方案，写了个大概，目前问题是 扭曲导致 1）兄弟顺序不对 2）重叠导致不美观 3）加人物照片 4)动态生成dot字符串。 [http://yuanqingfei.me/familyTree-gedcom/](http://yuanqingfei.me/familyTree-gedcom/)
+
+
 

@@ -229,5 +229,11 @@ digraph G {
 
 初步采用第一种方案，写了个大概，目前问题是 扭曲导致 1）兄弟顺序不对 2）重叠导致不美观 3）加人物照片 4)动态生成dot字符串。 [http://yuanqingfei.me/familyTree-gedcom/](http://yuanqingfei.me/familyTree-gedcom/)
 
+# 20180424更新
+
+加入图片
+
+![placeholder-m.png]({{site.baseurl}}/images/placeholder-m.png)
+![placeholder-f.png]({{site.baseurl}}/images/placeholder-f.png)
 
 

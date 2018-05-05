@@ -1,7 +1,7 @@
 ---
 published: true
 categories: arts
-tags: 'sparrow,pets,duck'
+tags: sparrow pets duck
 ---
 童年的宠物
 

@@ -1,5 +1,7 @@
 ---
 published: false
+categories: technique
+tags: 'programming,java,javascript,mode'
 ---
 尝试对编程做点小结
 

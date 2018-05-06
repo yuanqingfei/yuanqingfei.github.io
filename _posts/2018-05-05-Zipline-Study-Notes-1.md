@@ -22,8 +22,7 @@ zipline run --bundle quantopian-quandl -f buyapple.py --start 2016-01-01 --end 2
 
 ### Plot:
 
-```python
->>> import pandas as pd
->>> perf = pd.read_pickle('apple.pickle')
+```bash
+sudo pip install pyfolio
 
 ```

@@ -7,8 +7,9 @@ published: false
 ### Install:
 
 ```bash
-pip install zipline
 sudo apt-get install libatlas-base-dev python-dev gfortran pkg-config libfreetype6-dev
+sudo pip install --upgrade setuptools
+sudo pip install zipline
 
 QUANDL_API_KEY=[QUANDL_KEY] zipline ingest -b quantopian-quandl
 ```

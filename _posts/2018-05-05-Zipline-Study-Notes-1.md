@@ -25,7 +25,7 @@ zipline run --bundle quantopian-quandl -f buyapple.py --start 2016-01-01 --end 2
 [pyfolio](https://quantopian.github.io/pyfolio/notebooks/zipline_algo_example/#extract-metrics)
 
 ```bash
-sudo pip install pyfolio
+sudo pip install pyfolio==0.7.0
 sudo apt-get install python-tk
 ```
 
@@ -33,8 +33,9 @@ sudo apt-get install python-tk
 import pyfolio as pf
 import pandas as pd
 
-results = pd.read_pickle('results.pickle')
+results = pd.read_pickle('apple.pickle')
 returns, positions, transactions = pf.utils.extract_rets_pos_txn_from_zipline(results)
+pf.plot_drawdown_periods(returns, top=5).set_xlabel('Date')
 
 
 ```

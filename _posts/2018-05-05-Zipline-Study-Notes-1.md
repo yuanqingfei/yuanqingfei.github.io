@@ -41,4 +41,4 @@ pf.plot_drawdown_periods(returns, top=5).set_xlabel('Date')
 
 ```
 
-目前遇到一个问题就是zipline和pyfolio使用的[pandas版本不兼容](https://github.com/quantopian/zipline/issues/2132)。需要在不同的环境下运行才可以。
+目前遇到一个问题就是zipline和pyfolio使用的[pandas版本不兼容](https://github.com/quantopian/zipline/issues/2132)。需要在不同的环境下运行才可以。[这里](https://github.com/quantopian/pyfolio/issues/407)也有记录。

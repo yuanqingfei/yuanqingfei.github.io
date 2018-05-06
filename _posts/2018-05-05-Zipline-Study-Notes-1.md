@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 categories: technique
 tags: zipline pyfolio finance trading
 ---

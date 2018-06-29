@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 categories: technique
 tags: finance trading usd cdn
 ---

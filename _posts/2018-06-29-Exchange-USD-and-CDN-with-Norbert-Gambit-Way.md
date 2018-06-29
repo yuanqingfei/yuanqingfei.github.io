@@ -28,5 +28,7 @@ tags: finance trading usd cdn
 * 参考链接
 
 ** https://www.moneysense.ca/magazine-archive/norberts-gambit-a-better-way-to-buy-u-s-dollars/
+
 ** http://www.finiki.org/wiki/Norbert%27s_gambit
+
 ** https://www.pwlcapital.com/en/Advisor/Toronto/Toronto-Team/Blog/Justin-Bender/February-2017/Norbert-s-Gambit-at-BMO-InvestorLine

@@ -1,5 +1,7 @@
 ---
 published: false
+categories: technique
+tags: finance trading usd cdn
 ---
 如果居住在加拿大，恐怕会经常遇到加元/美元互换的情况，如果你直接去银行换，你大概会损失两个点，看起来不起眼，但是如果你一次换10万美元的话，你有可能就要少得2000加币。接下来我以自己的经历来解释一下通常用的Norbert Gamit方式来避免这个损失。
 

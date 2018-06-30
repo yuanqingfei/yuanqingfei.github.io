@@ -6,7 +6,7 @@ tags: finance trading usd cdn
 如果居住在加拿大，恐怕会经常遇到加元/美元互换的情况，如果你直接去银行换，你大概会损失两个点，看起来不起眼，但是如果你一次换10万美元的话，你有可能就要少得2000加币。接下来我以自己的经历来解释一下通常用的Norbert Gamit方式来避免这个损失。
 
 ## 开投资账户
-比如BMO Investline，Investline账户开通以后，通常会关联银行账户那侧的美元和加元两个现金投资账户（注意，这两个账户是和通常的saving和checque账户不一样的）。当你把钱从saving或者cheque账户转到investment账户时，不是实时到账的，要等一个工作日。
+比如BMO Investline，Investline都可以。下面以BMO Investline账户开通以后，通常会关联银行账户那侧的美元和加元两个现金投资账户（注意，这两个账户是和通常的saving和checque账户不一样的）。当你把钱从saving或者cheque账户转到investment账户时，不是实时到账的，要等一个工作日。
 
 ## 理解DLR和DLR-U
 这两个是其实是一个ETF基金，[DLR](https://www.horizonsetfs.com/etf/DLR)指的是加元，[DLR-U](https://www.horizonsetfs.com/etf/DLR-U)指的是美元。比如如果你想以美元换加币，就以美元买入DLR-U，然后再卖出DLR。反之亦然。这样做的好处是你几乎以实时的[汇率](https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=CAD)来做的。

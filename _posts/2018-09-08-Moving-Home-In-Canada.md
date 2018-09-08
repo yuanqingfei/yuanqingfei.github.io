@@ -1,5 +1,7 @@
 ---
 published: false
+categories: arts
+tags: moving home
 ---
 搬家在哪里都不容易，在加拿大更是如此。
 

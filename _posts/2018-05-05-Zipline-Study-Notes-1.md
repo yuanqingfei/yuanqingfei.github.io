@@ -83,4 +83,6 @@ pf.create_full_tear_sheet(returns, positions=positions, transactions=transaction
 ```
 Python3 没有兼容问题。只有Python2才有下面的问题：
 
-目前遇到一个问题就是zipline和pyfolio使用的[pandas版本不兼容](https://github.com/quantopian/zipline/issues/2132)。需要在不同的环境下运行才可以。[这里](https://github.com/quantopian/pyfolio/issues/407)也有记录。
+目前遇到一个问题就是zipline和pyfolio使用的[pandas版本不兼容](https://github.com/quantopian/zipline/issues/2132)。需要在不同的环境下运行才可以。[这里](https://github.com/quantopian/pyfolio/issues/407)也有记录
+
+ 但是有一个图形问题： https://github.com/quantopian/pyfolio/issues/485

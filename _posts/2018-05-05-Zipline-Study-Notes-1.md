@@ -24,6 +24,15 @@ QUANDL_API_KEY=[QUANDL_KEY] zipline ingest -b quandl
 zipline run --bundle quantopian-quandl -f buyapple.py -s 2016-01-01 -e 2018-12-01 -o apple.pickle
 ```
 
+### Plot with Pandas
+with python3
+
+```python
+>>> import pandas as pd
+>>> perf = pd.read_pickle('apple.pickle')
+>>> perf.head()
+```
+
 ### Plot:
 
 [pyfolio](https://quantopian.github.io/pyfolio/notebooks/zipline_algo_example/#extract-metrics)

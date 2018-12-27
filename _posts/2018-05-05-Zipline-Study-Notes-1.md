@@ -68,8 +68,7 @@ def analyze(context, perf):
 [pyfolio](https://quantopian.github.io/pyfolio/notebooks/zipline_algo_example/#extract-metrics)
 
 ```bash
-sudo pip install pyfolio
-sudo apt-get install python-tk
+sudo pip3 install pyfolio
 ```
 
 ```python
@@ -81,5 +80,6 @@ returns, positions, transactions = pf.utils.extract_rets_pos_txn_from_zipline(re
 pf.plot_drawdown_periods(returns, top=5).set_xlabel('Date')
 
 ```
+Python3 没有兼容问题。只有Python2才有下面的问题：
 
 目前遇到一个问题就是zipline和pyfolio使用的[pandas版本不兼容](https://github.com/quantopian/zipline/issues/2132)。需要在不同的环境下运行才可以。[这里](https://github.com/quantopian/pyfolio/issues/407)也有记录。

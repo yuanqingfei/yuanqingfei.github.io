@@ -21,7 +21,7 @@ QUANDL_API_KEY=[QUANDL_KEY] zipline ingest -b quandl
 ### Run:
 
 ```bash
-zipline run --bundle quantopian-quandl -f buyapple.py --start 2016-01-01 --end 2018-01-01 -o apple.pickle
+zipline run --bundle quantopian-quandl -f buyapple.py -s 2016-01-01 -e 2018-12-01 -o apple.pickle
 ```
 
 ### Plot:

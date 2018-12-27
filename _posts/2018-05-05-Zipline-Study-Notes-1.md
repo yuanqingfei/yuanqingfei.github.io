@@ -3,17 +3,19 @@ published: true
 categories: technique
 tags: zipline pyfolio finance trading
 ---
+Update on 201181227
+re-install the zipline based on Unbuntu 18.04
 
 ## Steps:
 
 ### Install:
 
 ```bash
-sudo apt-get install libatlas-base-dev python-dev gfortran pkg-config libfreetype6-dev
-sudo pip install --upgrade setuptools
-sudo pip install zipline
+sudo pip uninstall zipline
+sudo apt install python3-pip
+sudo pip3 install zipline
 
-QUANDL_API_KEY=[QUANDL_KEY] zipline ingest -b quantopian-quandl
+QUANDL_API_KEY=[QUANDL_KEY] zipline ingest -b quandl
 ```
 
 ### Run:
@@ -42,5 +44,3 @@ pf.plot_drawdown_periods(returns, top=5).set_xlabel('Date')
 ```
 
 目前遇到一个问题就是zipline和pyfolio使用的[pandas版本不兼容](https://github.com/quantopian/zipline/issues/2132)。需要在不同的环境下运行才可以。[这里](https://github.com/quantopian/pyfolio/issues/407)也有记录。
-
-

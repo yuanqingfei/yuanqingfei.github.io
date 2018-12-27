@@ -24,7 +24,7 @@ QUANDL_API_KEY=[QUANDL_KEY] zipline ingest -b quandl
 zipline run --bundle quantopian-quandl -f buyapple.py -s 2016-01-01 -e 2018-12-01 -o apple.pickle
 ```
 
-### Plot with Pandas
+### Plot with Pandas:
 with python3
 
 ```python
@@ -33,7 +33,37 @@ with python3
 >>> perf.head()
 ```
 
-### Plot:
+### Plot with 
+
+```bash
+sudo pip3 install matplotlib
+zipline run -f mavggoogle.py -s 2016-01-01 -e 2018-12-01
+```
+plot function:
+```python
+def analyze(context, perf):
+    ax1 = plt.subplot(211)
+    perf.portfolio_value.plot(ax=ax1)
+    ax1.set_ylabel('portfolio value in $')
+    ax1.set_xlabel('time in years')
+
+    ax2 = plt.subplot(212, sharex=ax1)
+
+    perf['GOOG'].plot(ax=ax2)
+    perf[['short_mavg', 'long_mavg']].plot(ax=ax2)
+
+    perf_trans = perf.ix[[t != [] for t in perf.transactions]]
+    buys = perf_trans.ix[[t[0]['amount'] > 0 for t in perf_trans.transactions]]
+    sells = perf_trans.ix[[t[0]['amount'] < 0 for t in perf_trans.transactions]]
+    ax2.plot(buys.index, perf.short_mavg.ix[buys.index], '^', markersize=10, color='m')
+    ax2.plot(sells.index, perf.short_mavg.ix[sells.index],'v', markersize=10, color='k')
+    ax2.set_ylabel('price in $')
+    ax2.set_xlabel('time in years')
+    plt.legend(loc=0)
+    plt.show() 
+```
+
+### Plot with pyfolio:
 
 [pyfolio](https://quantopian.github.io/pyfolio/notebooks/zipline_algo_example/#extract-metrics)
 

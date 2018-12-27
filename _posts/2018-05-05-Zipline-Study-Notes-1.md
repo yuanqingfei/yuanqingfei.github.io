@@ -79,6 +79,7 @@ results = pd.read_pickle('apple.pickle')
 returns, positions, transactions = pf.utils.extract_rets_pos_txn_from_zipline(results)
 pf.plot_drawdown_periods(returns, top=5).set_xlabel('Date')
 
+pf.create_full_tear_sheet(returns, positions=positions, transactions=transactions, live_start_date='2018-01-01', round_trips=True)
 ```
 Python3 没有兼容问题。只有Python2才有下面的问题：
 

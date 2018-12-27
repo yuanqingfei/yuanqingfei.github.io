@@ -33,7 +33,7 @@ with python3
 >>> perf.head()
 ```
 
-### Plot with 
+### Plot with Matplot
 
 ```bash
 sudo pip3 install matplotlib

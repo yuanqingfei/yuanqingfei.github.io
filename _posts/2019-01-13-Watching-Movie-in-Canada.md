@@ -5,7 +5,8 @@ tags: movie cinema
 ---
 来加拿大快两年了，一直还没有去过电影院，这次周末去了一趟，收获许多感受。
 
-![ralph_internet.jpg]({{site.baseurl}}/_posts/ralph_internet.jpg)
+![ralph_internet.jpg]({{site.baseurl}}/images/ralph_internet.jpg)
+
 
 ## 购票
 国内我是很了解的，支付宝直接买就行了，这边据说也有手机APP，不过我没有用。我是在大家都很喜欢的购物中心Costco买的，大人两张，小孩一张，包含三杯可乐，二包爆米花，含税价一共42加元。去了之后换票的时候发现，这个电影是3D的，需要补交9元。所以一共票价是大概50加比左右。如果是在电影院当场买票，票价会更贵些（当时进场时急吼吼的，忘记看了）。

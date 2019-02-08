@@ -1,5 +1,7 @@
 ---
 published: false
+categories: arts
+tags: mama family
 ---
 66岁的妈妈的老年痴呆更严重了。。哎。。
 

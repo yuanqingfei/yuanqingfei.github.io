@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+categories: arts
+tags: plan career family
 ---
 越来越感觉到时间的压力，一不小心马上要40了，如同那首歌唱的，刚刚懂事就老了。。。
 
@@ -15,5 +17,5 @@ published: false
 ### 声音低8度
 家庭声音太大导致吵吵闹闹气氛不好，学会平心静气说话，从我做起
 
-2019已经来了，加油！！！青飞兄！！！
+2019已经来了，加油！！！青飞兄！
 

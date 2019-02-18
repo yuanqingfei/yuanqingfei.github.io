@@ -1,5 +1,7 @@
 ---
 published: false
+categories: arts
+tags: career leader tips
 ---
 听老梁说的（https://www.youtube.com/watch?v=aOu6nj3z2Zg ），记录如下：
 

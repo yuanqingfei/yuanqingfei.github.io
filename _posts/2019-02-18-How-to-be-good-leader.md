@@ -1,5 +1,7 @@
 ---
 published: true
+categories: arts
+tags: plan career family
 ---
 听老梁说的（https://www.youtube.com/watch?v=aOu6nj3z2Zg ），记录如下：
 

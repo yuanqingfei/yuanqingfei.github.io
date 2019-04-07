@@ -1,5 +1,7 @@
 ---
 published: false
+categories: arts
+tags: life car tire
 ---
 人生又一个第一次，其实也没有那么难。
 

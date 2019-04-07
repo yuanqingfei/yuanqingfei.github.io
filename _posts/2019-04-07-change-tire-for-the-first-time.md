@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 categories: arts
 tags: life car tire
 ---
@@ -21,4 +21,3 @@ tags: life car tire
 * 装上新的，先用手，再用wrench，要听到click的声音，这样你知道松紧程度正好了。四个轮胎依次。
 * 开上车去costco打气，放了一个冬天的轮胎难免不够气了。
 * 回来后再紧紧。
-

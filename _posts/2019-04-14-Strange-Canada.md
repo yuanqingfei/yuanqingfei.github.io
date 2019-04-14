@@ -1,7 +1,5 @@
 ---
-published: false
-categories: arts
-tags: canada review
+published: true
 ---
 奇奇怪怪的加拿大
 
@@ -30,5 +28,3 @@ tags: canada review
 ## 公立小学一直到6年级都没有课本，每天空书包背饭盒去上学。
 
 ## 半数家长要给小孩找家教，学费每小时150人民币到200人民币不等。
-
-

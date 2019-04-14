@@ -1,5 +1,7 @@
 ---
 published: false
+categories: arts
+tags: canada review
 ---
 奇奇怪怪的加拿大
 

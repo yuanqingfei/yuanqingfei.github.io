@@ -1,5 +1,7 @@
 ---
 published: true
+categories: arts
+tags: life
 ---
 奇奇怪怪的加拿大
 

@@ -1,4 +1,4 @@
-remote_theme: "mmistakes/minimal-mistakes@4.13.0"
+remote_theme: "mmistakes/minimal-mistakes@4.16.3"
 minimal_mistakes_skin: "dirt" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 plugins:
@@ -66,8 +66,8 @@ sass:
 author:
   name             : "yuanqingfei"
   avatar           : "/images/self.jpg"
-  bio              : "极高明而道中庸"
-  location         : "Mississauga"
+  bio              : "知止而后定"
+  location         : "Toronto"
   email            : "yuanqingfei@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"

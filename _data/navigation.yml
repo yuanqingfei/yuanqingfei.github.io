@@ -5,7 +5,7 @@ main:
     url: /categories/
   - title: "标签"
     url: /tags/
-  - title: "青梅嗅"
+  - title: "为艺术而技术"
     url: https://www.yuanqingfei.com    
   - title: "关于"
     url: /about/

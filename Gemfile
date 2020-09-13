@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-#  gem "jekyll", "~> 3.6.2"
+#  gem "jekyll", "~> 3.8.5"
 
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-remote-theme"
@@ -32,3 +32,21 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
+
+### Below is local version. Can run locally with below command
+## sudo bundle update jekyll
+## bundle exec jekyll serve
+
+# source "https://rubygems.org"
+# gem "jekyll", "~> 3.8.5"
+# gem "github-pages", group: :jekyll_plugins
+# gem 'jekyll-include-cache'
+# group :jekyll_plugins do
+#   gem "jekyll-feed", "~> 0.11"
+#   gem "jekyll-archives", "~> 2.1"
+#   gem "jekyll-paginate"
+#   gem "jekyll-sitemap"
+#   gem "jekyll-gist"
+#   gem "jemoji"
+# end
+# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]

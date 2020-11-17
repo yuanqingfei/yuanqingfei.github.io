@@ -65,39 +65,6 @@ sass:
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style 
 
 
-# Site Author
-author:
-  name             : "Qingfei Yuan"
-  avatar           : "/images/self.jpg"
-  bio              : "知止而后能定"
-  location         : 
-  email            : 
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : 
-  foursquare       :
-  github           : #yuanqingfei
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : #10260396/qingfei-yuan # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            : 
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
 
 # Site Settings
 locale                   : "en-US"

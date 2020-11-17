@@ -48,8 +48,8 @@ defaults:
       author_profile: false
       share: false
       comments: false
-      sidebar: false
-       # nav: "docs"
+      sidebar: true
+        nav: "docs"
   # _portfolio
   - scope:
       path: ""

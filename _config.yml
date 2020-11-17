@@ -37,6 +37,7 @@ defaults:
     values:
       layout: splash
       author_profile: false
+      classes: wide
   # _docs
   - scope:
       path: ""

@@ -20,7 +20,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: false
       comments: true
       share: true
@@ -48,7 +48,7 @@ defaults:
       author_profile: false
       share: false
       comments: false
-      sidebar: true
+      sidebar: 
         nav: "docs"
   # _portfolio
   - scope:

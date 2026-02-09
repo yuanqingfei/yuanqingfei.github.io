@@ -10,7 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 #  gem "jekyll", "~> 3.9.0"
 
-gem "github-pages", group: :jekyll_plugins
+# gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.4.1"
 gem "jekyll-remote-theme"
 gem 'jekyll-include-cache'
 
@@ -20,13 +21,11 @@ gem 'jekyll-include-cache'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.11"
-#  gem "jekyll-archives", "~> 2.1"
-#  gem "jekyll-paginate"
-#  gem "jekyll-sitemap"
-#  gem "jekyll-gist"
-#  gem "jekyll-feed"
-#  gem "jemoji"
+  gem "jekyll-feed", "~> 0.15"
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jemoji"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
